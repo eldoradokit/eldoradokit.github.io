@@ -402,12 +402,24 @@ section {
      object-fit: cover;
 }
 
+.banner .box::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5); /* Adjust RGBA value as needed */
+  z-index: 1;
+}
+
 .banner .box .content {
   position: absolute;
   top: 50%;
-  left: 2rem; /* Adjusted to left */
+  left: 2rem; /* Adjust as needed */
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
+  z-index: 2; /* Ensure the content is above the overlay */
 }
 
 .banner .box .content span {
