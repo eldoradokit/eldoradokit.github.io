@@ -295,7 +295,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
-                    <span>Verified</span>
+                    <span>Top-rated options</span>
                 </div>
                 <p>${product.description}</p>
                 <div class="buttons">
