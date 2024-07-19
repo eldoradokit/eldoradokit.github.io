@@ -334,7 +334,7 @@ document.addEventListener('DOMContentLoaded', () => {
         hike: "Hiker's Haven",
         travel: "Travel",
         books: "Empowerment Pack",
-        harrypotter: "Harry Potter Collection",
+        timelessradiance: "Timeless Radiance",
         mensgift: "Men's Gift"
     };
 
@@ -355,7 +355,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 hike: "Hiker's Haven",
                 travel: "Travel",
                 books: "Empowerment Pack",
-                harrypotter: "Harry Potter Collection",
+                timelessradiance: "Timeless Radiance",
                 mensgift: "Men's Gift"
 
             };
