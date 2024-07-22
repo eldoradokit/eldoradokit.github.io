@@ -282,6 +282,7 @@ body{
    display: none;
    align-items: center;
    justify-content: center;
+   z-index: 2000; /* Increase the z-index to ensure it appears above other elements */
 }
 
 .products-preview .preview{
@@ -292,6 +293,7 @@ body{
    position: relative;
    margin:2rem;
    width: 80rem;
+   z-index: 2100; /* Ensure the preview box is above the overlay */
 }
 
 .products-preview .preview.active{
