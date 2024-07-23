@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const banners = Array.from(bannerSection.querySelectorAll('.box'));
 
     // Define the new order here by the index of the banners
-    const newOrder = [6, 0, 1, 4, 5, 3, 7, 2,]; // Adjust this array to your desired order
+    const newOrder = [6, 0, 1, 7, 5, 3, 4, 2,]; // Adjust this array to your desired order
 
     // Remove all banner elements
     banners.forEach(banner => bannerSection.removeChild(banner));
