@@ -55,7 +55,15 @@ document.addEventListener('DOMContentLoaded', () => {
               description: "The DJI Osmo Mobile 6 Gimbal Stabilizer is an essential tool for anyone looking to elevate their smartphone videography. Featuring a 3-axis stabilization system, this gimbal ensures your videos are smooth and shake-free, whether you're vlogging, capturing content for YouTube or TikTok, or just documenting everyday moments. The built-in extension rod offers added versatility, allowing for creative angles and dynamic shots, while its portable and foldable design makes it easy to take on the go. Available in a sleek slate gray, the Osmo Mobile 6 combines functionality with style to enhance your content creation experience.", 
               amazonLink: "https://www.amazon.com/DJI-Smartphone-Stabilizer-Extension-ShotGuides/dp/B0B7XD7R43?th=1&linkCode=ll1&tag=rpt96-20&linkId=ccae5eec017ac673aa7571448b0bfb7b&language=en_US&ref_=as_li_ss_tl" },
 
+            { name: "DJI RS 3 Pro Combo", 
+              img: "https://m.media-amazon.com/images/I/51LmiCAxmrL._AC_SY450_.jpg", 
+              description: "The DJI RS 3 Pro Combo is a professional 3-axis gimbal stabilizer designed for DSLR and cinema cameras, compatible with brands like Canon, Sony, Panasonic, Nikon, Fujifilm, and BMPCC. Featuring automated axis locks and durable carbon fiber arms, this gimbal ensures superior stabilization and ease of use. The combo also includes the Ronin Image Transmitter for seamless video transmission. With its sleek black design, the DJI RS 3 Pro Combo is the perfect tool for filmmakers seeking unparalleled precision and versatility.", 
+              amazonLink: "https://www.amazon.com/DJI-Pro-Combo-Stabilizer-Transmission/dp/B09ZPN7G95?th=1&linkCode=ll1&tag=rpt96-20&linkId=e69c65637e46b6269e5ad7b43edec356&language=en_US&ref_=as_li_ss_tl" },
 
+            { name: "DJI Transmission", 
+              img: "https://m.media-amazon.com/images/I/51IbpviLYtL._AC_SY450_.jpg", 
+              description: "The DJI Transmission High-Bright Monitor Combo offers unparalleled video transmission capabilities with a range of up to 20,000 feet at 1080p/60fps. This advanced system includes a transmitter and a high-bright monitor with an integrated wireless receiver, ensuring clear and reliable video feeds. Additionally, it features comprehensive gimbal, focus, and camera control, along with independent recording functionality, making it an essential tool for professional filmmakers and videographers seeking high-quality, long-distance transmission and control.", 
+              amazonLink: "https://www.amazon.com/DJI-Transmission-End-End-Integrated/dp/B0B14WLCTC?th=1&linkCode=ll1&tag=rpt96-20&linkId=e424e212b795e644160e159538b70a67&language=en_US&ref_=as_li_ss_tl" },
             // Add more products for DJI kit
         ],
         ecoflow: [
