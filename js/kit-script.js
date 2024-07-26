@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
               amazonLink: "https://www.amazon.com/DJI-Portable-Generator-Charging-Off-grid/dp/B0CZ6L8RYS?th=1&linkCode=ll1&tag=rpt96-20&linkId=d562fe548fd2e912be7ab0af3e3e4516&language=en_US&ref_=as_li_ss_tl" },
 
             { name: "DJI Power 500 ", 
-              img: "https://m.media-amazon.com/images/I/61UGdj0n8RL._AC_SX679_.jpg", 
+              img: "https://m.media-amazon.com/images/I/61Ox80cpoAL._AC_SX679_.jpg", 
               description: "The DJI Power 500 Portable Power Station is a versatile 512Wh power generator ideal for content creation, drone photography, camping, and RVs. Featuring a LiFePO4 cell and Air 3 fast charge cable, it offers efficient and reliable energy storage. With fast charging capabilities and a maximum output of 1000W, the Power 500 ensures your devices and equipment stay powered up, making it a perfect companion for both outdoor adventures and professional work.", 
               amazonLink: "https://www.amazon.com/DJI-Portable-Generator-4000-Cycle-Life-70-Minute/dp/B0CZ6ZBSW1?th=1&linkCode=ll1&tag=rpt96-20&linkId=6cd66311fb7feb1136480fb6310dc2db&language=en_US&ref_=as_li_ss_tl" },
           
