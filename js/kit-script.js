@@ -64,6 +64,17 @@ document.addEventListener('DOMContentLoaded', () => {
               img: "https://m.media-amazon.com/images/I/51IbpviLYtL._AC_SY450_.jpg", 
               description: "The DJI Transmission High-Bright Monitor Combo offers unparalleled video transmission capabilities with a range of up to 20,000 feet at 1080p/60fps. This advanced system includes a transmitter and a high-bright monitor with an integrated wireless receiver, ensuring clear and reliable video feeds. Additionally, it features comprehensive gimbal, focus, and camera control, along with independent recording functionality, making it an essential tool for professional filmmakers and videographers seeking high-quality, long-distance transmission and control.", 
               amazonLink: "https://www.amazon.com/DJI-Transmission-End-End-Integrated/dp/B0B14WLCTC?th=1&linkCode=ll1&tag=rpt96-20&linkId=e424e212b795e644160e159538b70a67&language=en_US&ref_=as_li_ss_tl" },
+
+            { name: "DJI Power 1000", 
+              img: "https://m.media-amazon.com/images/I/610GgknLDbL._AC_SX679_.jpg", 
+              description: "The DJI Power 1000 Portable Power Station is a robust 1024Wh solar generator designed for diverse power needs. Equipped with three 100W solar panels and advanced LFP cell technology, it ensures reliable energy storage and efficiency. With 70-minute fast charging and a stable 2200W output, this power station is perfect for home backup, camping, RVs, and off-grid adventures. It offers a dependable solution for keeping your devices and appliances powered wherever you are.", 
+              amazonLink: "https://www.amazon.com/DJI-Portable-Generator-Charging-Off-grid/dp/B0CZ6L8RYS?th=1&linkCode=ll1&tag=rpt96-20&linkId=d562fe548fd2e912be7ab0af3e3e4516&language=en_US&ref_=as_li_ss_tl" },
+
+            { name: "DJI Power 500 ", 
+              img: "https://m.media-amazon.com/images/I/61UGdj0n8RL._AC_SX679_.jpg", 
+              description: "The DJI Power 500 Portable Power Station is a versatile 512Wh power generator ideal for content creation, drone photography, camping, and RVs. Featuring a LiFePO4 cell and Air 3 fast charge cable, it offers efficient and reliable energy storage. With fast charging capabilities and a maximum output of 1000W, the Power 500 ensures your devices and equipment stay powered up, making it a perfect companion for both outdoor adventures and professional work.", 
+              amazonLink: "https://www.amazon.com/DJI-Portable-Generator-4000-Cycle-Life-70-Minute/dp/B0CZ6ZBSW1?th=1&linkCode=ll1&tag=rpt96-20&linkId=6cd66311fb7feb1136480fb6310dc2db&language=en_US&ref_=as_li_ss_tl" },
+          
             // Add more products for DJI kit
         ],
         ecoflow: [
