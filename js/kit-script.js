@@ -362,6 +362,90 @@ document.addEventListener('DOMContentLoaded', () => {
               description: "The Louis Vuitton Pre-Loved Damier Ebene Neverfull PM is a classic tote crafted from signature Damier Ebene coated canvas. In very good condition with minor scratching on hardware and creasing on the exterior leather trim, it features two leather shoulder straps and a clasp closure. Made in France, this iconic bag was first introduced in 2007 and remains one of Louis Vuitton's most successful silhouettes due to its durable design and versatile appeal. The Neverfull continues to be offered in various colors and leathers, reflecting the brand's creativity and enduring popularity.", 
               amazonLink: "https://www.amazon.com/Louis-Vuitton-Pre-Loved-Damier-Neverfull/dp/B0CSSVMZ14?ie=UTF8&ASIN=B0CSSVMZ14&sr=1-40&qid=1721709668&_encoding=UTF8&dib=eyJ2IjoiMSJ9.XN5g2qb6A8x5XY3KbNfqI2KGvu8jz0xWnM9K30d7JhqPvNvpI9mnr_kFHMNKKkgilm9a30VklWCorL9MN_feoG3vOkim2sXglJ-8y0iURFvD1PA-hEE1ZXNoil11W-2qBOb5i3Hac2Eq-Bv7xZkOlwdVnWTSnqlC9UqIWALCTngJnOO0svz2vl_rMsYQ0pYfTXWk_2bsdFWtmeFXasorImuPnq5Tsx-R9TV0rtI9Jahm4h9CXOCCPn50mMBTBOU-Jju0O8MkGfcCknnNhbcipsbCGOqRaLPnPLjLcsdZ2uc.7zaSZmymCXTzNG-GlbEcOFTfXU7uj2K2Ju_EGip9JYQ&rnid=20722800011&dib_tag=se&linkCode=ll1&tag=rpt96-20&linkId=7be361ef7292f132dedb1f4bc38c8452&language=en_US&ref_=as_li_ss_tl" },
 
+
+        ],
+        clothing: [
+             { name: "Rodarte", 
+               img: "https://m.media-amazon.com/images/I/717EVkMgQaL._AC_SY741_.jpg", 
+               description: "Fresh and modern, this midi is cut from silk twill adorned with a pink and blue rose print. The fitted bodice flows into a graceful circle skirt. A vibrant pink rose accents the neckline with blue leaves. Puff sleeves are gathered into a tailored sleeve.", 
+               amazonLink: "https://www.amazon.com/Rodarte-Printed-Sleeve-Flower-Detail/dp/B0CZCBXQPP?th=1&psc=1&linkCode=ll1&tag=rpt96-20&linkId=7710bfe6a1f91af72ac245047f3f98bd&language=en_US&ref_=as_li_ss_tl" },
+
+              { name: "PatBO", 
+               img: "https://m.media-amazon.com/images/I/61DFVdnga+L._AC_SX569_.jpg", 
+               description: "This mini dress features a deep V-neckline and ruched waistband detail. Concealed back zipper closure. Fully Lined. Runs small.", 
+               amazonLink: "https://www.amazon.com/Viera-V-Neck-Mini-Dress-2/dp/B0CT9R1H7J?th=1&linkCode=ll1&tag=rpt96-20&linkId=db0f90e2e37a44f8040fe48923c75348&language=en_US&ref_=as_li_ss_tl" },
+
+              { name: "Elie Saab", 
+               img: "https://m.media-amazon.com/images/I/71D72lgyXnL._AC_SY741_.jpg", 
+               description: "This exquisite lace embroidered long dress is crafted from a luxurious blend of 34% silk, 33% polyester, and 33% nylon. The dress features a sophisticated scoop neck, open back, and sleeveless design, perfectly complemented by a scalloped hemline. Fitted to accentuate your silhouette, it pairs beautifully with heels for an elegant look. The dress, imported and dry clean only, comes with a silk lining for added comfort and style.", 
+               amazonLink: "https://www.amazon.com/Elie-Saab-Embroidered-Dress-Cosmopolitan/dp/B0D2F4NVC9?th=1&linkCode=ll1&tag=rpt96-20&linkId=bb12d1c2e201d251de70c51cabc0a272&language=en_US&ref_=as_li_ss_tl" },
+
+              { name: "Rodarte", 
+               img: "https://m.media-amazon.com/images/I/71bSJ9otyAL._AC_SY741_.jpg", 
+               description: "This elegant slip dress from the Rodarte Spring 24 Collection is crafted entirely from 100% silk, with a hand-molded silk flower adorning the neckline. Made in the USA, this minimalist gown is cut on the bias from blue and pink rose-printed silk charmeuse, creating a graceful and streamlined silhouette. Specialized dry cleaning ensures its luxurious quality is maintained. Pair this exquisite dress with its matching floor-length cape for a truly sophisticated ensemble.", 
+               amazonLink: "https://www.amazon.com/Rodarte-Printed-Dress-Flower-Detail/dp/B0CWSGD954?th=1&linkCode=ll1&tag=rpt96-20&linkId=28fb786ae6d4d9436517303cd2ababc6&language=en_US&ref_=as_li_ss_tl" },
+
+              { name: "Elie Saab", 
+               img: "https://m.media-amazon.com/images/I/71+gUuJxgEL._AC_SY741_.jpg", 
+               description: "This Elie Saab knit and lace midi dress is crafted from a luxurious blend of 70% viscose, 5% metal, 10% nylon, 5% polyamide, 5% elastane, and 5% polyester. Featuring scalloped straps and neckline with delicate lace inserts, it boasts a straight-across neckline and a closed back. The sleeveless design is fitted through the bust, waist, and hips, flaring elegantly at the hem. This versatile dress can be styled with flats or heels, making it perfect for various occasions. Dry clean only to maintain its exquisite quality. Imported.", 
+               amazonLink: "https://www.amazon.com/Elie-Saab-Dress-Spritz-Powder/dp/B0D2DVSMSP?th=1&psc=1&linkCode=ll1&tag=rpt96-20&linkId=9d6dd721281905da1d432b9b15f8d0f5&language=en_US&ref_=as_li_ss_tl" },
+
+              { name: "PatBO", 
+               img: "https://m.media-amazon.com/images/I/61S58HDAAiL._AC_SX569_.jpg", 
+               description: "This stunning PatBO Aura Metallic Plunge Mini Dress is crafted from a shimmering blend of 50% polyester and 50% metallic fabric. It features a daring plunge neckline and a fitted skirt with an elegant side drape detail. The concealed back zipper ensures a seamless fit, while the design runs true to size for a flattering silhouette. Perfect for making a statement at any event, this imported dress requires dry cleaning to maintain its radiant appearance.", 
+               amazonLink: "https://www.amazon.com/Aura-Metallic-Plunge-Mini-Dress/dp/B0CT9TQBSQ?ie=UTF8&ASIN=B0CT9TQBSQ&sr=1-78&qid=1721975658&_encoding=UTF8&dib=eyJ2IjoiMSJ9.kH4gcULqUssF_PGK9VZ8PkvRhn3EVSPsgdgm4Sdd0hmrnjKzgx31_gNP2JccvCVboE-uQxlyxeG82C1DRb7yG_IQMur7-Q4EJWaTnLFAaGymzZevbo5eTgtVQrEzGHvT7RUJJksffz4IZMSEd-9rSitOWftCJyzF1W_e_uODQMGdLcEJf3P71TRgPPsA3Eu476A7fz2YlKa5Iq-XgnRq-zGi3fj_Rqzc05iTFFL5Imen2QSuHyCl8AGpvyWTVa0eHdwXhmWB7ybYsA1POzrxcv5kZRvHpDXqQrHcaatmnI0.aXtzTEk0bkFmUidJbLRvFS_n8Cc-dfCofr5r2VeEMMw&rnid=20722800011&dib_tag=se&th=1&linkCode=ll1&tag=rpt96-20&linkId=40ca924f8f7941ef1a696df2c77eb673&language=en_US&ref_=as_li_ss_tl" },
+
+              { name: "Altuzarra", 
+               img: "https://m.media-amazon.com/images/I/61sQHbjH+WL._AC_SY741_.jpg", 
+               description: "The Altuzarra Connie Dress, showcased in the SS24 runway show, is a stunning piece inspired by the generous trapeze volumes of fifties and sixties couture. Made from 100% cotton, this imported dress features a ribbed, compact-knit design with slim shoulder straps and a square neckline. The slim bodice transitions into a flattering midi-length hem. Ideal for various occasions, the dress should be dry cleaned only to maintain its elegant structure.", 
+               amazonLink: "https://www.amazon.com/Altuzarra-Connie-Dress-Natural-White/dp/B0CT66DK78?th=1&linkCode=ll1&tag=rpt96-20&linkId=9c470cf72d8094b0830da923e50c92bc&language=en_US&ref_=as_li_ss_tl" },
+
+              { name: "PatBO", 
+               img: "https://m.media-amazon.com/images/I/51uvjoGmv-L._AC_SX569_.jpg", 
+               description: "The PatBO Viera V-Neck Midi Dress is an elegant piece made from 100% polyester. This imported dress features a low v-neckline with adjustable shoulder straps, ensuring a perfect fit. The ankle-length A-line skirt offers a timeless silhouette, complemented by a concealed back zipper closure. Fully lined for added comfort, this sleeveless dress runs true to size and requires dry cleaning to maintain its pristine condition. Perfect for any occasion, it combines style and sophistication effortlessly.", 
+               amazonLink: "https://www.amazon.com/Viera-V-Neck-Midi-Dress-4/dp/B0CT9MBB9G?th=1&linkCode=ll1&tag=rpt96-20&linkId=c9f75839a31490f6d1143c4836fa5177&language=en_US&ref_=as_li_ss_tl" },
+
+              { name: "PatBO", 
+               img: "https://m.media-amazon.com/images/I/71nMYQEJRDL._AC_SX569_.jpg", 
+               description: "The PatBO Viera Lace Pants are a stylish and elegant addition to your wardrobe, crafted from 100% cotton lace fabric. These imported pants feature a front zipper closure and are lined with shorts for added comfort and coverage. Perfect for creating a chic, sophisticated look, these lace pants should be dry cleaned only to maintain their delicate fabric and intricate design.", 
+               amazonLink: "https://www.amazon.com/PatBO-Viera-Lace-Pants-8/dp/B0CT9JDF9G?th=1&psc=1&linkCode=ll1&tag=rpt96-20&linkId=3edeffc5ec5886fd42fb2360fa183419&language=en_US&ref_=as_li_ss_tl" },
+
+              { name: "Rodarte", 
+               img: "https://m.media-amazon.com/images/I/51-mWYVxX8L._AC_SY741_.jpg", 
+               description: "Part of the Rodarte Spring 24 Collection, this exquisite gown is crafted from 100% silk crepe, with a luxurious 100% silk lining. Made in the USA, the dress is cut on the bias from lustrous off-white silk two-ply crepe, creating a fluid and elegant silhouette. It features cross-body panel inlays and is adorned with black velvet ribbon bows that tie over the puff shoulders, adding a touch of vintage charm. The empire waistline gently flares into a maxi length, ensuring a perfect fit. This dress requires specialized dry cleaning to maintain its pristine condit", 
+               amazonLink: "https://www.amazon.com/Rodarte-White-Velvet-Ribbon-Details/dp/B0CWSHD4W9?ie=UTF8&ASIN=B0CWSHD4W9&pf_rd_r=31WYHM1KB3DRCM1GKGQS&pf_rd_p=16a5ceac-4369-4773-9a03-99ce6ea02530&_encoding=UTF8&pd_rd_i=B0CWSHD4W9&pd_rd_w=qSQju&content-id=amzn1.sym.16a5ceac-4369-4773-9a03-99ce6ea02530&pd_rd_wg=ZiENc&pd_rd_r=a3263cfb-a4d7-4d57-ac15-b4d4591cba6e&linkCode=ll1&tag=rpt96-20&linkId=bfb64d0ac86bbb008541143d9b35c52e&language=en_US&ref_=as_li_ss_tl" },
+
+              { name: "Sergio Hudson", 
+               img: "https://m.media-amazon.com/images/I/71r95tdEuzL._AC_SY741_.jpg", 
+               description: "This elegant mini dress by Sergio Hudson is crafted from a luxurious blend of 97% wool and 3% Lycra, ensuring a comfortable and flattering fit. Made in the USA, the dress features a square neckline and a sleeveless design. The multi-seamed construction adds a sophisticated touch, while the straight bodice fits snugly around the waist and transitions into a playful tulip-shaped trumpet flare skirt just past the hips. Dry clean only to maintain its impeccable quality.", 
+               amazonLink: "https://www.amazon.com/Sergio-Hudson-Multi-Seamed-Trumpet-Front/dp/B0B8PXJDXK?ie=UTF8&ASIN=B0B8PXJDXK&sr=1-72&qid=1721975658&_encoding=UTF8&dib=eyJ2IjoiMSJ9.kH4gcULqUssF_PGK9VZ8PkvRhn3EVSPsgdgm4Sdd0hmrnjKzgx31_gNP2JccvCVboE-uQxlyxeG82C1DRb7yG_IQMur7-Q4EJWaTnLFAaGymzZevbo5eTgtVQrEzGHvT7RUJJksffz4IZMSEd-9rSitOWftCJyzF1W_e_uODQMGdLcEJf3P71TRgPPsA3Eu476A7fz2YlKa5Iq-XgnRq-zGi3fj_Rqzc05iTFFL5Imen2QSuHyCl8AGpvyWTVa0eHdwXhmWB7ybYsA1POzrxcv5kZRvHpDXqQrHcaatmnI0.aXtzTEk0bkFmUidJbLRvFS_n8Cc-dfCofr5r2VeEMMw&rnid=20722800011&dib_tag=se&th=1&linkCode=ll1&tag=rpt96-20&linkId=1cf6a2c65cca1ed6e66507b0923b6caf&language=en_US&ref_=as_li_ss_tl" },
+
+              { name: "Rodarte", 
+               img: "https://m.media-amazon.com/images/I/81Wsc9dOQbL._AC_SY741_.jpg", 
+               description: "This enchanting mini dress by Rodarte, made from 100% silk, features a beautiful purple iris print on elegant silk twill. Crafted in the USA, the dress boasts a white silk crepe de chine notched collar and band cuffs, adding a touch of sophistication. Lightly padded shoulders accentuate the puffed sleeves, while the waist is cinched with a self-belt for a flattering fit. The neatly tailored yoke and flared panel skirt create graceful movement with every step. For best care, specialized dry cleaning is recommended to maintain its luxurious appearance.", 
+               amazonLink: "https://www.amazon.com/Rodarte-Purple-Printed-Collared-Detail/dp/B0CWSGB9GW?ie=UTF8&ASIN=B0CWSGB9GW&pf_rd_r=ZS6ZG8N6TKBMRM9WS36W&pf_rd_p=a997db7d-2ac0-475b-b74a-9f3109158ba2&_encoding=UTF8&pd_rd_i=B0CWSGB9GW&pd_rd_w=VE2eL&content-id=amzn1.sym.a997db7d-2ac0-475b-b74a-9f3109158ba2&pd_rd_wg=5L0Ax&pd_rd_r=5e082db1-836d-4c82-b9e9-cb97c09f3751&th=1&psc=1&linkCode=ll1&tag=rpt96-20&linkId=95b1d8e3dd242076cc20daf24b38f828&language=en_US&ref_=as_li_ss_tl" },
+
+              { name: "ADRIANA DEGREAS", 
+               img: "https://m.media-amazon.com/images/I/41SAAhm6FJL._AC_SY741_.jpg", 
+               description: "The ADRIANA DEGREAS Seashell Solid Cut-Out Long Dress in Old Rose is a sophisticated addition to any wardrobe. Made from a blend of 55% linen and 45% viscose, this imported dress features unique side cut-outs shaped like sea waves, adding a relaxed yet elegant touch. The long dress includes thin straps, side pockets, and a square neckline, offering both style and practicality. For care, hand wash with neutral soap in cold water, avoid bleach and tumble drying, and iron up to 110°C. Pair this dress with flat sandals and accessories for an effortlessly chic Adriana Degreas look.", 
+               amazonLink: "https://www.amazon.com/Adriana-Degreas-Seashell-Solid-Cut-Out/dp/B0CZRGL3TY?ie=UTF8&ASIN=B0CZRGL3TY&sr=1-17&qid=1721975595&_encoding=UTF8&dib=eyJ2IjoiMSJ9.dXbyHGurP5zTA1_ZJmzUNn7LwtmA5QhwUN3vXAmirzKlOLsa-NiEsCpMlCospQT_sUh9XPDe792BLcSqMvRN6Ffq_V6Jr-w6H884P4k8eOL2bC2LdAD8V_nbYQSdYnmsKl0GbPTnx_Z5ihSuQkb0TtfSJmMmzJqDrUj6ZXedR3RZ3jGyn5qF2mu8152cgua7rNEIxY93ApAkZdQcAKhpg8Pu-2Z09MuArqeQPd7TkhX9vn3kYXmDJet1Jp7Sg0D2DxJ5LzQA8dWLdarjIWvZ7wyajtCqojpHUlxnU8EqIj8.samGOERYMjbjiVLbMzNesZ5nKuOWW4IAOHsayYgRYBg&rnid=20722800011&dib_tag=se&th=1&linkCode=ll1&tag=rpt96-20&linkId=7419c1b531d34ed1bd7931dd348efe78&language=en_US&ref_=as_li_ss_tl" },
+
+              { name: "Oscar de la Renta", 
+               img: "https://m.media-amazon.com/images/I/71oF0ijMrPL._AC_SY741_.jpg", 
+               description: "This stunning Oscar de la Renta Cactus Eyelet Guipure Dress in cerulean blue is crafted from 98% cotton and 2% elastane, with intricate 100% polyester lace appliques. Made in the USA, this sleeveless midi dress features a square neckline and a coordinating removable buckle belt for a tailored fit. The dress is designed with concealed side pockets and is unlined for a lightweight feel. Perfect for making a statement, this show-stopping dress requires dry cleaning only to maintain its exquisite quality.", 
+               amazonLink: "https://www.amazon.com/Oscar-Renta-Cactus-Guipure-Cerulean/dp/B0CRNRYT1M?ie=UTF8&ASIN=B0CRNRYT1M&sr=1-3&qid=1721975595&_encoding=UTF8&dib=eyJ2IjoiMSJ9.dXbyHGurP5zTA1_ZJmzUNn7LwtmA5QhwUN3vXAmirzKlOLsa-NiEsCpMlCospQT_sUh9XPDe792BLcSqMvRN6Ffq_V6Jr-w6H884P4k8eOL2bC2LdAD8V_nbYQSdYnmsKl0GbPTnx_Z5ihSuQkb0TtfSJmMmzJqDrUj6ZXedR3RZ3jGyn5qF2mu8152cgua7rNEIxY93ApAkZdQcAKhpg8Pu-2Z09MuArqeQPd7TkhX9vn3kYXmDJet1Jp7Sg0D2DxJ5LzQA8dWLdarjIWvZ7wyajtCqojpHUlxnU8EqIj8.samGOERYMjbjiVLbMzNesZ5nKuOWW4IAOHsayYgRYBg&rnid=20722800011&dib_tag=se&th=1&linkCode=ll1&tag=rpt96-20&linkId=644db2261bf2d8c5e7d77d30fd22064d&language=en_US&ref_=as_li_ss_tl" },
+
+              { name: "AREA", 
+               img: "https://m.media-amazon.com/images/I/71RzcU1YQBL._AC_SX679_.jpg", 
+               description: "The AREA Flower Slit Shorts are a chic denim option crafted from 100% cotton. These imported shorts feature a removable flower corsage, adding a touch of playful elegance. With a stylish side slit and a distinctive 'AREA' crystal nameplate at the rear pocket, they offer a unique twist on classic denim. Available in a Super Light Wash, these shorts require dry cleaning to maintain their pristine condition.", 
+               amazonLink: "https://www.amazon.com/AREA-Flower-Short-Super-Light/dp/B0D64JDSTX?ie=UTF8&ASIN=B0D64JDSTX&sr=1-85&qid=1721975658&_encoding=UTF8&dib=eyJ2IjoiMSJ9.kH4gcULqUssF_PGK9VZ8PkvRhn3EVSPsgdgm4Sdd0hmrnjKzgx31_gNP2JccvCVboE-uQxlyxeG82C1DRb7yG_IQMur7-Q4EJWaTnLFAaGymzZevbo5eTgtVQrEzGHvT7RUJJksffz4IZMSEd-9rSitOWftCJyzF1W_e_uODQMGdLcEJf3P71TRgPPsA3Eu476A7fz2YlKa5Iq-XgnRq-zGi3fj_Rqzc05iTFFL5Imen2QSuHyCl8AGpvyWTVa0eHdwXhmWB7ybYsA1POzrxcv5kZRvHpDXqQrHcaatmnI0.aXtzTEk0bkFmUidJbLRvFS_n8Cc-dfCofr5r2VeEMMw&rnid=20722800011&dib_tag=se&th=1&linkCode=ll1&tag=rpt96-20&linkId=b64f8391091c3a22098d53417af8c6e8&language=en_US&ref_=as_li_ss_tl" },
+
+              { name: "Rodarte", 
+               img: "https://m.media-amazon.com/images/I/71sVc-oop8L._AC_SY741_.jpg", 
+               description: "From the Rodarte Spring 24 Collection, this exquisite gown is crafted from 100% silk charmeuse with a lustrous blue and white floral print. Made in the USA, the gown features a bias cut that enhances its elegant flow. It is adorned with intricate gossamer lace inlays and ruffles of white lace trim along the halter neckline. The empire waistline is cinched with thin silk ribbons that tie at the back, creating a slim fit that gently flares into a maxi length. Specialized dry cleaning is recommended to preserve its delicate beauty.", 
+               amazonLink: "https://www.amazon.com/Rodarte-White-Floral-Printed-Details/dp/B0CWSGBXHJ?th=1&linkCode=ll1&tag=rpt96-20&linkId=862ffe36d3773b9f19cb66e7604fd01a&language=en_US&ref_=as_li_ss_tl" },
+
+        
         ]
         // Add more kits similarly
     };
@@ -460,7 +544,7 @@ document.addEventListener('DOMContentLoaded', () => {
         travel: "Travel",
         books: "Empowerment Pack",
         timelessradiance: "Timeless Radiance",
-        mensgift: "Men's Gift"
+        clothing: "Enchanted Euphoria"
     };
 
     // Set the kit name in <h3>
@@ -481,7 +565,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 travel: "Travel",
                 books: "Empowerment Pack",
                 timelessradiance: "Timeless Radiance",
-                mensgift: "Men's Gift"
+                clothing: "Enchanted Euphoria"
 
             };
 
