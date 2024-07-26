@@ -78,15 +78,50 @@ document.addEventListener('DOMContentLoaded', () => {
             // Add more products for DJI kit
         ],
         ecoflow: [
+            { name: "EF ECOFLOW RIVER", 
+              img: "https://m.media-amazon.com/images/I/61oEgIa--bL._AC_SX679_.jpg", 
+              description: "The EF ECOFLOW RIVER 288Wh Portable Power Station is a compact and efficient solution for emergencies, home backup, outdoor camping, and RV use. Featuring three 600W AC outlets with a peak capacity of 1200W, it provides versatile power options. The built-in LED flashlight adds convenience for low-light situations, while its fast charging capability ensures you’re quickly prepared. As a silent solar generator, it offers eco-friendly energy with the option to include solar panels, making it an ideal companion for both indoor and outdoor adventures.", 
+              amazonLink: "https://www.amazon.com/EF-ECOFLOW-Flashlight-Generator-Emergencies/dp/B09HGYTDTZ?th=1&psc=1&linkCode=ll1&tag=rpt96-20&linkId=7a8071b44836daac701b9f4c9f0abb9d&language=en_US&ref_=as_li_ss_tl" },
+
+            { name: "EF ECOFLOW RIVER PRO", 
+              img: "https://m.media-amazon.com/images/I/61FgXidtlLL._AC_SX679_.jpg", 
+              description: "The EF ECOFLOW RIVER Pro Portable Power Station offers 720Wh of reliable power, ideal for camping, RV trips, outdoor activities, and off-grid use. It can recharge from 0-80% in just 1 hour, ensuring you’re quickly ready to power multiple devices. With its efficient and fast charging capabilities, the RIVER Pro provides a dependable energy source for all your adventures and emergencies.", 
+              amazonLink: "https://www.amazon.com/EF-ECOFLOW-Portable-Multiple-Recharge/dp/B08T1KY8SG?th=1&psc=1&linkCode=ll1&tag=rpt96-20&linkId=61ffcc2c39e0727fef91c3fc63770e29&language=en_US&ref_=as_li_ss_tl" },
+            
             { name: "EF ECOFLOW RIVER 2", 
               img: "https://m.media-amazon.com/images/I/61DgKWuw-zL._AC_SX679_.jpg", 
               description: "The EF EcoFlow Portable Power Station RIVER 2 is a versatile power source perfect for camping, RVs, and home use. With a 256Wh LiFePO4 battery, it charges in just 1 hour and offers two AC outlets up to 600W. The optional solar panel allows for eco-friendly recharging, making it an ideal companion for any outdoor adventure or emergency backup.", 
               amazonLink: "https://www.amazon.com/EF-ECOFLOW-Portable-RIVER-Generator/dp/B0B8MXPRDB?crid=1TM85IMBP3YXM&dib=eyJ2IjoiMSJ9.yvrVqhfQt7S7nVYl-K843kYH1o18mP8Ytv2MKpRuXpFYgXPcJwn38JbJ_kED2NLKNCpY5YTCf6oQjwtpUyutIhMAV2bCTs84I5H0aHf9ZxM2MItlUTdZqIqqNk2eLBESPl2JLBMBGtizatineBgN6DYjGwqi9cHdluEvO_6a752SvyPiU3gGG3kbt-cD5dqP3mL-thSW6H-g2wt02EyUfO45NHBjTVvi9zqoS9aLk6i1RhAKtdx16dUN8EXZHOG_XsTC4yx-HoeOV4k2nLMWqYlMlCJcRQ6x_U1YNBXQO2I.A4EepSdQ1457KW91emlXBzCYc59lClZWa2p6taT983Q&dib_tag=se&keywords=ef%2Becoflow&qid=1720605200&sprefix=ef%2Becoflo%2Caps%2C460&sr=8-7&th=1&linkCode=ll1&tag=rpt96-20&linkId=85646634f40aa1bf92ef3515d4ff250a&language=en_US&ref_=as_li_ss_tl" },
 
+            { name: " EF ECOFLOW RIVER 2 Pro ", 
+              img: "https://m.media-amazon.com/images/I/61ooUabaG9L._AC_SX679_.jpg", 
+              description: "The EF ECOFLOW Portable Power Station RIVER 2 Pro is a compact yet powerful solution for all your energy needs. With a 768Wh LiFePO4 battery, it provides reliable and long-lasting power. This portable station charges swiftly in just 70 minutes and features four 800W AC outlets, with an X-Boost option up to 1600W, making it perfect for outdoor camping, RVs, and home use. Its compatibility with solar panels ensures eco-friendly energy on the go, offering a versatile and efficient power source in a sleek black design.", 
+              amazonLink: "https://www.amazon.com/EF-ECOFLOW-Portable-Charging-Generator/dp/B0BVLPGS79?th=1&linkCode=ll1&tag=rpt96-20&linkId=3577c099f2dda159c1ee82403b57d30e&language=en_US&ref_=as_li_ss_tl" },
+
+            { name: "EF ECOFLOW DELTA", 
+              img: "https://m.media-amazon.com/images/I/61s0F+Rj+QL._AC_SY300_SX300_.jpg", 
+              description: "The EF ECOFLOW Portable Power Station DELTA 1300 is a robust 1260Wh solar-powered generator designed for versatility and reliability. Featuring six 1800W AC outlets, it provides ample power for various devices and appliances, making it an ideal choice for outdoor camping and off-grid adventures. The option to add solar panels enhances its sustainability, ensuring a continuous and eco-friendly energy supply. With its powerful performance and portable design, the DELTA 1300 is perfect for all your outdoor power needs.", 
+              amazonLink: "https://www.amazon.com/EF-ECOFLOW-Portable-Station-Generator/dp/B083FR3762?th=1&linkCode=ll1&tag=rpt96-20&linkId=3ec15591f7bce51cefc9e027692caa79&language=en_US&ref_=as_li_ss_tl" },
+            
             { name: "ECOFLOW DELTA 2", 
               img: "https://m.media-amazon.com/images/I/61p5Knewi+L._AC_SX679_.jpg", 
               description: "EF ECOFLOW Portable Power Station DELTA 2 Max, 2400W LFP Solar Generator, Full Charge in 1 Hr, 2048Wh Solar Powered Generator for Home Backup(Solar Panel Optional)", 
               amazonLink: "https://www.amazon.com/EF-ECOFLOW-Portable-Charging-Generator/dp/B0B9XB57XM?crid=1TM85IMBP3YXM&dib=eyJ2IjoiMSJ9.yvrVqhfQt7S7nVYl-K843kYH1o18mP8Ytv2MKpRuXpFYgXPcJwn38JbJ_kED2NLKNCpY5YTCf6oQjwtpUyutIhMAV2bCTs84I5H0aHf9ZxM2MItlUTdZqIqqNk2eLBESPl2JLBMBGtizatineBgN6DYjGwqi9cHdluEvO_6a752SvyPiU3gGG3kbt-cD5dqP3mL-thSW6H-g2wt02EyUfO45NHBjTVvi9zqoS9aLk6i1RhAKtdx16dUN8EXZHOG_XsTC4yx-HoeOV4k2nLMWqYlMlCJcRQ6x_U1YNBXQO2I.A4EepSdQ1457KW91emlXBzCYc59lClZWa2p6taT983Q&dib_tag=se&keywords=ef+ecoflow&qid=1720605200&sprefix=ef+ecoflo%2Caps%2C460&sr=8-5&linkCode=ll1&tag=rpt96-20&linkId=97fa162da3f09783421aa35fbedb79e4&language=en_US&ref_=as_li_ss_tl" },
+
+            { name: "EF ECOFLOW Portable DELTA 2 MAX,", 
+              img: "https://m.media-amazon.com/images/I/61hji+hcW+L._AC_SX679_.jpg", 
+              description: "The EF ECOFLOW Portable Power Station DELTA 2 Max is a powerful 2400W LFP solar generator, providing an impressive 2048Wh of energy storage. Ideal for home backup, it ensures you stay powered during outages and emergencies. With the ability to fully charge in just 1 hour, it offers rapid and reliable energy. The option to add solar panels enhances its versatility, making it a sustainable and efficient solution for your energy needs.", 
+              amazonLink: "https://www.amazon.com/EF-ECOFLOW-Portable-Generator-Optional/dp/B0C4DW17PD?&linkCode=ll1&tag=rpt96-20&linkId=37835547a71b38894dc377d775d0469b&language=en_US&ref_=as_li_ss_tl" },
+            
+            { name: "EF ECOFLOW DELTA PRO", 
+              img: "https://m.media-amazon.com/images/I/61qMM6iBt3L._AC_SX679_.jpg", 
+              description: "The EF ECOFLOW Portable Power Station DELTA Pro is a high-capacity 3600Wh power solution, ideal for home use, power outages, camping, RV trips, and emergencies. Equipped with five 120V AC outlets and a powerful 3600W output, it can handle a wide range of devices and appliances. The DELTA Pro features a fast charging time of just 2.7 hours and utilizes reliable LiFePO4 battery technology. As a solar generator, it offers an eco-friendly energy source, ensuring you stay powered up wherever you are.", 
+              amazonLink: "https://www.amazon.com/EF-ECOFLOW-Portable-Expandable-Generator/dp/B0C1Z4GLKS?th=1&linkCode=ll1&tag=rpt96-20&linkId=88ca02c9f0e194a1663146d24554228a&language=en_US&ref_=as_li_ss_tl" },
+
+            { name: "EF ECOFLOW DELTA PRO 3", 
+              img: "https://m.media-amazon.com/images/I/61GjkAWylzL._AC_SX679_.jpg", 
+              description: "The EF ECOFLOW DELTA Pro 3 Portable Power Station is a high-capacity 4000Wh LFP battery generator, designed for versatile use in home settings, camping, emergencies, and RV trips. With a robust 120/240V 4000W AC output and the ability to expand up to 48kWh, it delivers reliable power for a wide range of needs. Whether for home backup during power outages or off-grid adventures, the DELTA Pro 3 offers a powerful and flexible solution to keep your devices and appliances running smoothly.", 
+              amazonLink: "https://www.amazon.com/EF-ECOFLOW-Expandable-Accessories-Emergencies/dp/B0D14FMFZD?th=1&linkCode=ll1&tag=rpt96-20&linkId=2d8e0c9a413a7e992541085d4b7efd03&language=en_US&ref_=as_li_ss_tl" },
 
             // Add more products for EcoFlow kit
         ],
