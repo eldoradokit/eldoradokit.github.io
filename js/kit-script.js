@@ -283,6 +283,10 @@ document.addEventListener('DOMContentLoaded', () => {
               description: "Dr. Barbara Sturm's Enzyme Cleanser, imported and weighing 75g, offers a deep yet gentle cleanse and exfoliation. It removes dry and dead skin, makeup, pollution, and other impurities from your pores. Post-cleansing, your skin is revitalized and smooth, with a noticeable reduction in blackheads.", 
               amazonLink: "https://www.amazon.com/Dr-Barbara-Sturm-Enzyme-Cleanser/dp/B09VB6S5J7?ie=UTF8&keywords=Exfoliation&ASIN=B09VB6S5J7&sr=1-2&qid=1721366133&dib=eyJ2IjoiMSJ9.RL-jeu16ODWAGUPEUqkeLKyYtpur2EPs_a8-9c0UpDb_Jlg315sgfxS3kDiUgtXFsW-zCHdTGp3-rZalESqADWVK5N_ykJeb3yMaOaLvsxkeBGOmier6LCLQuni9sfXMaXYTgFpB2ST1FgxwlZwZt15oeSVqWqTbiHQmw2SKRHeyaXnpnf4kqoFRR9gUm2CLiy_8csomeaLzfKyPhzTjHK5SkerOYNfLLg5xCf_EHKQ.bl8TOpq16hSXcHzmbtdhF8GLzzaW5wAdiCtfL38RbfQ&dib_tag=se&linkCode=ll1&tag=rpt96-20&linkId=cc5f95ea80d25ecfb2b8be01020043a9&language=en_US&ref_=as_li_ss_tl" },
 
+            { name: "Dr. Barbara Sturm  Clarifying Face Cream", 
+              img: "https://m.media-amazon.com/images/I/612ZgRG-0dL._AC_SX679_.jpg", 
+              description: "The clarifying face cream is an anti-aging moisturizer specifically developed for blemished skin. A complex of Balloon Vine, Viper’s Bugloss and Sunflower Seed Oil strengthens the skin’s moisture barrier and helps to restore its natural balance. Purslane provides a soothing and calming effect. Zinc removes excess sebum, a key factor in the formation of blemishes, while Bistorta Root Extract provides a radiant glow. When used as part of your daily skincare routine, it will result in a more even and more clarified complexion. Your skin will feel hydrated and the appearance of fine lines and wrinkles will be visibly reduced.", 
+              amazonLink: "https://www.amazon.com/Dr-Barbara-Sturm-Clarifying-Cream/dp/B09VB5XMRS?th=1&psc=1&linkCode=ll1&tag=rpt96-20&linkId=65c54625ddf86454654d000d6c1917d6&language=en_US&ref_=as_li_ss_tl" },
 
             
         ],
