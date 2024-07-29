@@ -74,7 +74,11 @@ document.addEventListener('DOMContentLoaded', () => {
               img: "https://m.media-amazon.com/images/I/61Ox80cpoAL._AC_SX679_.jpg", 
               description: "The DJI Power 500 Portable Power Station is a versatile 512Wh power generator ideal for content creation, drone photography, camping, and RVs. Featuring a LiFePO4 cell and Air 3 fast charge cable, it offers efficient and reliable energy storage. With fast charging capabilities and a maximum output of 1000W, the Power 500 ensures your devices and equipment stay powered up, making it a perfect companion for both outdoor adventures and professional work.", 
               amazonLink: "https://www.amazon.com/DJI-Portable-Generator-4000-Cycle-Life-70-Minute/dp/B0CZ6ZBSW1?th=1&linkCode=ll1&tag=rpt96-20&linkId=6cd66311fb7feb1136480fb6310dc2db&language=en_US&ref_=as_li_ss_tl" },
-          
+
+            { name: "DJI Mic 2", 
+              img: "https://m.media-amazon.com/images/I/71h3zzCL4zL._AC_SX679_.jpg", 
+              description: "The DJI Mic 2 Bundle, complete with a 2-year extended protection plan, ensures top-tier audio for livestreaming and video production. With transmitters and receivers offering up to 18 hours of battery life via the charging case, it supports seamless, all-in-one operation and Bluetooth connectivity. Featuring an OLED touchscreen for easy adjustments, the bundle includes essential accessories like mobile adapters, windscreens, and a 128GB Lexar microSD card, making it the ultimate choice for hassle-free, high-quality audio recording.", 
+              amazonLink: "https://www.amazon.com/DJI-Charging-Microphone-microSDXC-Protection/dp/B0CSKQNS3K?th=1&linkCode=ll1&tag=rpt96-20&linkId=02635932d144f22e30ed18f280b18e01&language=en_US&ref_=as_li_ss_tl" },
             // Add more products for DJI kit
         ],
         ecoflow: [
