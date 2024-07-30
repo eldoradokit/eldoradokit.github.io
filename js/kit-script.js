@@ -44,21 +44,51 @@ document.addEventListener('DOMContentLoaded', () => {
               img: "https://m.media-amazon.com/images/I/61Dk8UJAYcL._AC_SY450_.jpg", 
               description: "The DJI Mavic 3 Pro with DJI RC is a flagship drone featuring a triple-camera system, including a 4/3 CMOS Hasselblad camera for stunning 4K footage. It boasts a 43-minute flight time and 15km HD video transmission, ensuring long-range and high-quality aerial shots. Compliant with FAA Remote ID regulations, this advanced drone is perfect for adult enthusiasts and professionals seeking top-tier performance and reliability.", 
               amazonLink: "https://www.amazon.com/DJI-controller-Triple-Camera-Transmission-photography/dp/B0BYHSDY4C?th=1&linkCode=ll1&tag=rpt96-20&linkId=284bdae082ec24f9167610a3f53c37d5&language=en_US&ref_=as_li_ss_tl" },
+        
+            { name: "DJI RS 3 Pro Combo", 
+              img: "https://m.media-amazon.com/images/I/51LmiCAxmrL._AC_SY450_.jpg", 
+              description: "The DJI RS 3 Pro Combo is a professional 3-axis gimbal stabilizer designed for DSLR and cinema cameras, compatible with brands like Canon, Sony, Panasonic, Nikon, Fujifilm, and BMPCC. Featuring automated axis locks and durable carbon fiber arms, this gimbal ensures superior stabilization and ease of use. The combo also includes the Ronin Image Transmitter for seamless video transmission. With its sleek black design, the DJI RS 3 Pro Combo is the perfect tool for filmmakers seeking unparalleled precision and versatility.", 
+              amazonLink: "https://www.amazon.com/DJI-Pro-Combo-Stabilizer-Transmission/dp/B09ZPN7G95?th=1&linkCode=ll1&tag=rpt96-20&linkId=e69c65637e46b6269e5ad7b43edec356&language=en_US&ref_=as_li_ss_tl" },
 
             { name: "DJI RS 4 Pro Combo", 
               img: "https://stormsend1.djicdn.com/tpc/uploads/carousel/image/b1e526654c6107aaf38c438da8bb2cfe@origin.jpg", 
               description: "DJI RS 4 Pro Combo, 3-Axis Gimbal Stabilizer for DSLR & Cinema Cameras Canon/Sony/Panasonic/Nikon/Fujifilm, Native Vertical Shooting, 4.5kg/10lbs Payload, with Image Transmitter & Focus Pro Motor", 
               amazonLink: "https://www.amazon.com/DJI-Stabilizer-Panasonic-Fujifilm-Transmitter/dp/B0CS6LY1V7?th=1&linkCode=ll1&tag=rpt96-20&linkId=81c79e6ed7c710ca14e1d0940d346bab&language=en_US&ref_=as_li_ss_tl" },
 
+            {name: "DJI Action 2", 
+              img: "https://m.media-amazon.com/images/I/61ynVFrjIJL._AC_SY450_.jpg", 
+              description: "The DJI Action 2 offers a magnetic design for easy accessory swaps and versatile filming. Its ultra-compact size makes it ideal for travel, and with the Magnetic Lanyard and Headband, you can capture hands-free footage. Record stunning 4K/120fps video with a wide field of view, and effortlessly create share-worthy content using the DJI Mimo app's AI Editor. Note that only the camera unit is waterproof; use the Waterproof Case for underwater filming. The package includes the Camera Unit with 128GB storage, Power Module, Magnetic Protective Case, and more, with a recommended recording time of up to 5 minutes at 4K/120fps.", 
+              amazonLink: "https://www.amazon.com/DJI-Super-Wide-Attachments-Stabilization-Technology/dp/B0CS6JDM78?th=1&psc=1&linkCode=ll1&tag=rpt96-20&linkId=c072c17f8367d788825d5fc6ff3557c6&language=en_US&ref_=as_li_ss_tl" },
+
+            { name: "DJI Osmo Action 3 ", 
+              img: "https://m.media-amazon.com/images/I/71BQ8Kjt29L._AC_SY450_.jpg", 
+              description: "The DJI Osmo Action 3 captures stunning 4K HDR video with 10-bit color depth, displaying over a billion colors. Its HorizonSteady technology ensures ultra-smooth footage on any terrain. Designed for durability, it boasts a 160-minute battery life and performs in temperatures as low as -20°C (-4°F). With easy vertical mounting and waterproof capabilities up to 16 meters, it's ready for any adventure. Dual touchscreens offer intuitive control, even when wet. The Standard Combo includes essential accessories, but a microSD card must be purchased separately. For first-time use, connect to the DJI Mimo app for activation after five skips.", 
+              amazonLink: "https://www.amazon.com/DJI-Super-Wide-HorizonSteady-Waterproof-Long-Lasting/dp/B0B7X2LXQ6?th=1&linkCode=ll1&tag=rpt96-20&linkId=21c319bcdd775215d5e56e6d38a65cf3&language=en_US&ref_=as_li_ss_tl" },
+
+            { name: "DJI Osmo Action 4", 
+              img: "https://m.media-amazon.com/images/I/61l2P9RV24L._AC_SY450_.jpg", 
+              description: "Experience exceptional clarity with the 4K action camera’s 1/1.3-inch sensor, offering unparalleled low-light performance and vivid, true-to-life colors with 10-bit D-Log M. Capture stunning sunrises and sunsets with impressive 4K/120fps and a 155º ultra-wide FOV. Brave extreme cold with up to 150 minutes of recording at -20°C (-4°F). Quickly switch perspectives with the Magnetic Quick Release and enjoy steady footage thanks to advanced stabilization. The package includes the DJI Osmo Action 4, battery, and Quick-Release Adapter Mount, ideal for newcomers. Note: Download the latest DJI Mimo app from the DJI website due to Google Play compatibility issues.", 
+              amazonLink: "https://www.amazon.com/DJI-Waterproof-Long-Lasting-Stabilization-Touchscreens/dp/B0C783YNW7?th=1&psc=1&linkCode=ll1&tag=rpt96-20&linkId=c05e1adc7229a0b5876f94cb988d9127&language=en_US&ref_=as_li_ss_tl" },
+
+            {name: "DJI Osmo Mobile SE", 
+              img: "https://m.media-amazon.com/images/I/61+KgwQiHWL._AC_SY300_SX300_.jpg", 
+              description: "The compact, foldable Osmo Mobile SE gimbal features a magnetic clamp for quick setup and effortless shooting. With ActiveTrack 6.0, it follows subjects and even tracks you. Control it via your Apple Watch with the DJI Mimo app, and enjoy smooth, stabilized footage with 3-axis stabilization. Effortless editing with ShotGuides and LightCut enhances your videos. The gimbal's ergonomic, stain-resistant design ensures a secure grip.", 
+              amazonLink: "https://www.amazon.com/Smartphone-Stabilizer-Magnetic-Portable-Foldable/dp/B0B7XCG225?th=1&psc=1&linkCode=ll1&tag=rpt96-20&linkId=4c639429858ddd94888946c9f4b1a2ff&language=en_US&ref_=as_li_ss_tl" },
+
             { name: "DJI Osmo Mobile 6", 
               img: "https://m.media-amazon.com/images/I/51Q0I+lvW9L._AC_SY450_.jpg", 
               description: "The DJI Osmo Mobile 6 Gimbal Stabilizer is an essential tool for anyone looking to elevate their smartphone videography. Featuring a 3-axis stabilization system, this gimbal ensures your videos are smooth and shake-free, whether you're vlogging, capturing content for YouTube or TikTok, or just documenting everyday moments. The built-in extension rod offers added versatility, allowing for creative angles and dynamic shots, while its portable and foldable design makes it easy to take on the go. Available in a sleek slate gray, the Osmo Mobile 6 combines functionality with style to enhance your content creation experience.", 
               amazonLink: "https://www.amazon.com/DJI-Smartphone-Stabilizer-Extension-ShotGuides/dp/B0B7XD7R43?th=1&linkCode=ll1&tag=rpt96-20&linkId=ccae5eec017ac673aa7571448b0bfb7b&language=en_US&ref_=as_li_ss_tl" },
 
-            { name: "DJI RS 3 Pro Combo", 
-              img: "https://m.media-amazon.com/images/I/51LmiCAxmrL._AC_SY450_.jpg", 
-              description: "The DJI RS 3 Pro Combo is a professional 3-axis gimbal stabilizer designed for DSLR and cinema cameras, compatible with brands like Canon, Sony, Panasonic, Nikon, Fujifilm, and BMPCC. Featuring automated axis locks and durable carbon fiber arms, this gimbal ensures superior stabilization and ease of use. The combo also includes the Ronin Image Transmitter for seamless video transmission. With its sleek black design, the DJI RS 3 Pro Combo is the perfect tool for filmmakers seeking unparalleled precision and versatility.", 
-              amazonLink: "https://www.amazon.com/DJI-Pro-Combo-Stabilizer-Transmission/dp/B09ZPN7G95?th=1&linkCode=ll1&tag=rpt96-20&linkId=e69c65637e46b6269e5ad7b43edec356&language=en_US&ref_=as_li_ss_tl" },
+            { name: "DJI Pocket 2", 
+              img: "https://m.media-amazon.com/images/I/61XKonXOA3L._AC_SY450_.jpg", 
+              description: "The pocket-sized DJI Pocket 2, weighing 116 g with a 140-minute battery life, fits perfectly in your hand for instant photo and video capture. Its 3-axis gimbal ensures smooth, stable shots, even in low light. The upgraded 1/1.7-inch sensor delivers 64MP photos and 4K video, while four microphones provide enhanced audio. Glamour Effects and AI Editor help create perfect, share-worthy content effortlessly.", 
+              amazonLink: "https://www.amazon.com/DJI-Pocket-Stabilizer-Pocket-Sized-ActiveTrack/dp/B08J7FL57P?crid=2NNZ0ZBYJ8NTS&dib=eyJ2IjoiMSJ9.r0AKWcZnO8J5Uz7BCdKSBqtlTUXdJxxBkX8sHzBvq0GXxbcE3bQ90tQVORp1gj_9ak5l7DrQoOGZ8HtiZtrCQAIP3rev45xF8b4opWfxUXleMAxOE_sGn_0oRUk1eaTOBo-szydBoe2x1lKm0NPYqD0dRlYI5PJ9AphYZ9d-9rZm9ZN3GKGYaTcgek32yf5M2u_urZ7FXEiSbCumC5I1A3F7YA8-BGWwXSrmhkZBu91j6dn616zcT1AtoT_3kusIkdFMY3yBjw-ErpDhGv5a-yvhv_hGu8jcey7PoBvo2VY.MnjLft8MD84d8EGdvfpVJUPmuBaY2F4hnEvJzzRh5U4&dib_tag=se&keywords=dji&qid=1722310835&sprefix=dji%2Caps%2C1147&sr=8-18&th=1&linkCode=ll1&tag=rpt96-20&linkId=9f61ff118fd987f2b7c788b7899a6a0a&language=en_US&ref_=as_li_ss_tl" },
+
+            { name: "DJI Osmo Pocket 3", 
+              img: "https://m.media-amazon.com/images/I/514LEUejXYL._AC_SY450_.jpg", 
+              description: "Capture stunning footage with the Osmo Pocket 3, featuring a 1-inch CMOS sensor and 4K resolution at 120fps for breathtaking clarity, even in low light. Effortlessly frame your shots using the 2-inch rotating touch screen, perfect for horizontal and vertical shooting. Enjoy ultra-steady footage with advanced 3-axis stabilization, ideal for dynamic activities. Create captivating vlogs with ActiveTrack 6.0, keeping you centered in the frame. Fast and accurate focusing ensures sharp, clear footage, while D-Log M and 10-bit color depth unlock advanced color grading for stunning visual effects. Stereo recording captures high-quality audio, enhancing your videos with crystal-clear sound. Compact and convenient, the Osmo Pocket 3 is perfect for any adventure, big or small. The package includes the Osmo Pocket 3 starting set, DJI Mic 2 Transmitter, battery handle, Osmo mini tripod, and more. Note: Battery charger sold separately. For the latest DJI Mimo app, download it from the DJI official website.", 
+              amazonLink: "https://www.amazon.com/DJI-Vlogging-Stabilization-Tracking-Photography/dp/B0CG19FGQ5?crid=2NNZ0ZBYJ8NTS&dib=eyJ2IjoiMSJ9.r0AKWcZnO8J5Uz7BCdKSBqtlTUXdJxxBkX8sHzBvq0GXxbcE3bQ90tQVORp1gj_9ak5l7DrQoOGZ8HtiZtrCQAIP3rev45xF8b4opWfxUXleMAxOE_sGn_0oRUk1eaTOBo-szydBoe2x1lKm0NPYqD0dRlYI5PJ9AphYZ9d-9rZm9ZN3GKGYaTcgek32yf5M2u_urZ7FXEiSbCumC5I1A3F7YA8-BGWwXSrmhkZBu91j6dn616zcT1AtoT_3kusIkdFMY3yBjw-ErpDhGv5a-yvhv_hGu8jcey7PoBvo2VY.MnjLft8MD84d8EGdvfpVJUPmuBaY2F4hnEvJzzRh5U4&dib_tag=se&keywords=dji&qid=1722310835&sprefix=dji%2Caps%2C1147&sr=8-6&th=1&linkCode=ll1&tag=rpt96-20&linkId=dbc1711b83900ca9c88d2e12d46cafa4&language=en_US&ref_=as_li_ss_tl" },
 
             { name: "DJI Transmission", 
               img: "https://m.media-amazon.com/images/I/51IbpviLYtL._AC_SY450_.jpg", 
@@ -75,10 +105,17 @@ document.addEventListener('DOMContentLoaded', () => {
               description: "The DJI Power 500 Portable Power Station is a versatile 512Wh power generator ideal for content creation, drone photography, camping, and RVs. Featuring a LiFePO4 cell and Air 3 fast charge cable, it offers efficient and reliable energy storage. With fast charging capabilities and a maximum output of 1000W, the Power 500 ensures your devices and equipment stay powered up, making it a perfect companion for both outdoor adventures and professional work.", 
               amazonLink: "https://www.amazon.com/DJI-Portable-Generator-4000-Cycle-Life-70-Minute/dp/B0CZ6ZBSW1?th=1&linkCode=ll1&tag=rpt96-20&linkId=6cd66311fb7feb1136480fb6310dc2db&language=en_US&ref_=as_li_ss_tl" },
 
+            { name: "DJI Mic", 
+              img: "https://m.media-amazon.com/images/I/71jTh1T3jGL._AC_SX679_.jpg", 
+              description: "The DJI Mic features an all-in-one design with pre-linked transmitters and receiver, stored in a portable charging case. It offers a 250m (820 ft) range, 15-hour battery life, and magnetic attachment for versatile use. The receiver’s 0.95-inch OLED touchscreen provides easy control, while 8GB of internal storage supports 14 hours of uncompressed audio recording. Ideal for livestreaming, vlogging, and outdoor recording.", 
+              amazonLink: "https://www.amazon.com/DJI-Charging-Microphone-Cancellation-Interview/dp/B09GYD55JF?th=1&psc=1&linkCode=ll1&tag=rpt96-20&linkId=310e0194d473b2f424e3a4b1973df1da&language=en_US&ref_=as_li_ss_tl" },
+
             { name: "DJI Mic 2", 
               img: "https://m.media-amazon.com/images/I/71h3zzCL4zL._AC_SX679_.jpg", 
               description: "The DJI Mic 2 Bundle, complete with a 2-year extended protection plan, ensures top-tier audio for livestreaming and video production. With transmitters and receivers offering up to 18 hours of battery life via the charging case, it supports seamless, all-in-one operation and Bluetooth connectivity. Featuring an OLED touchscreen for easy adjustments, the bundle includes essential accessories like mobile adapters, windscreens, and a 128GB Lexar microSD card, making it the ultimate choice for hassle-free, high-quality audio recording.", 
               amazonLink: "https://www.amazon.com/DJI-Charging-Microphone-microSDXC-Protection/dp/B0CSKQNS3K?th=1&linkCode=ll1&tag=rpt96-20&linkId=02635932d144f22e30ed18f280b18e01&language=en_US&ref_=as_li_ss_tl" },
+
+            
             // Add more products for DJI kit
         ],
         ecoflow: [
