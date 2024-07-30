@@ -294,11 +294,6 @@ document.addEventListener('DOMContentLoaded', () => {
               description: "Dr. Sturm Glow Drops revitalizes dull, tired skin and restores its natural radiance. Formulated with polygonum bistorta root, it acts as an antimicrobial anti-ager, optimizing skin tone for a more youthful look. Wild rose extract refines pores and provides an even complexion, while purslane boosts levels of vitamin A and omega-3 acids, significantly reducing irritation. Available in a 30ml bottle, this potent skincare solution is designed to rejuvenate and enhance your skin's glow.", 
               amazonLink: "https://www.amazon.com/Dr-Barbara-Sturm-Glow-Drops/dp/B09V9LB9L3?ie=UTF8&ASIN=B09V9LB9L3&sr=1-3&qid=1721198114&_encoding=UTF8&dib=eyJ2IjoiMSJ9.aceW8swgPevX3WFKGA92Psq8G-XNaf8vLV8ZHufZ0geoRctdxyvrVCx90GlhYJ_3CLgQe_EDPLaPOsXJhGIlJeyfAtmVcFCKhXy1tA8jWd24niKiPi-_asDoBu4ne2pS8xP6D19NUbyWb4Qni4Hd9tXOgcx2FfZ2dtGMUuTQamoU85BixSwQLa6uPqKp4i_7sm60N87DEl2ieYL_S49cFmdF0t91dypLzOd1AM-BhzAOCeSmsQ2skgmBg9fOo3BktTTfEXuolGyOwuURzmoo2ztlBDVtgMswaPK12OVoNL4.AMy1SC8zp_JuzXqIpqJWAeoIGfYYxnwgUg_xjn9QWFs&rnid=18981045011&dib_tag=se&linkCode=ll1&tag=rpt96-20&linkId=b562bf48a7aa4f1b41dbf229b8a77f32&language=en_US&ref_=as_li_ss_tl" },
 
-            { name: "Monpure Follicle Boost Hair Density Serum ", 
-              img: "https://m.media-amazon.com/images/I/41O8Aj8bM8L._AC_SX679_.jpg", 
-              description: "Monpure Follicle Boost Hair Density Serum promotes thicker, fuller hair with regular use. It stimulates hair follicles and increases cell turnover on the scalp, enhancing overall hair health. This serum naturally blocks the conversion of testosterone to DHT, a hormone known to cause hair loss. Recognized for its efficacy, it won the Harper’s Bazaar Beauty Award for Best Stimulating Scalp Oil in 2021 and the Natural Health Beauty Award for Best Hair Product in 2020.", 
-              amazonLink: "https://www.amazon.com/Monpure-Follicle-Boost-Density-Serum/dp/B09LVY9DL6?ie=UTF8&sbo=CU4Pt4JlFi0Kd%2B17c8I6Zw%3D%3D&ASIN=B09LVY9DL6&pf_rd_r=CD3HGCQPWZHNYD0H2Y5N&pf_rd_p=53d84f87-8073-4df1-9740-1bf3fa798149&th=1&psc=1&linkCode=ll1&tag=rpt96-20&linkId=5e8a0588f1074c93a5c22382703325ad&language=en_US&ref_=as_li_ss_tl" },
-
             { name: "Clé de Peau Beauté The Foundation SPF 22", 
               img: "https://m.media-amazon.com/images/I/61k1cRPAxgL._AC_SY741_.jpg", 
               description: "Clé de Peau Beauté The Foundation SPF 22 instantly blurs imperfections and camouflages for an even-toned, radiant finish that lasts up to 24 hours. This luxuriously rich yet lightweight cream melts on contact with the skin to moisturize, plump, and protect, while reducing the appearance of lines and wrinkles and promoting firmness. The finish is sheer, buildable, and exquisitely radiant, with SPF 22 offering protection against harmful UV rays. After 4 weeks of use, the foundation improves softness, hydration, and firmness, with 72% of users noting a reduction in fine lines and 84% feeling their skin has become more beautiful. Very light with neutral undertones, this foundation is designed to enhance the natural beauty of your skin.", 
@@ -369,6 +364,11 @@ document.addEventListener('DOMContentLoaded', () => {
               description: "This innovative, light-textured SPF 50 sun serum that doubles as skincare provides truly broad-spectrum protection against both UVA and UVB rays. An active complex of Cassia Extract, Vitamin E and Beta-Glucan protects the skin from oxidative damage, while Purslane, an anti-aging powerhouse, helps calm the skin and reduces visible signs of irritation.", 
               amazonLink: "https://www.amazon.com/Dr-Barbara-Sturm-Drops-30ml/dp/B09V6PSJMS?th=1&psc=1&linkCode=ll1&tag=rpt96-20&linkId=ceb6cebaacec924392497dd413e9c7e4&language=en_US&ref_=as_li_ss_tl" },
 
+            { name: "Monpure Follicle Boost Hair Density Serum ", 
+              img: "https://m.media-amazon.com/images/I/41O8Aj8bM8L._AC_SX679_.jpg", 
+              description: "Monpure Follicle Boost Hair Density Serum promotes thicker, fuller hair with regular use. It stimulates hair follicles and increases cell turnover on the scalp, enhancing overall hair health. This serum naturally blocks the conversion of testosterone to DHT, a hormone known to cause hair loss. Recognized for its efficacy, it won the Harper’s Bazaar Beauty Award for Best Stimulating Scalp Oil in 2021 and the Natural Health Beauty Award for Best Hair Product in 2020.", 
+              amazonLink: "https://www.amazon.com/Monpure-Follicle-Boost-Density-Serum/dp/B09LVY9DL6?ie=UTF8&sbo=CU4Pt4JlFi0Kd%2B17c8I6Zw%3D%3D&ASIN=B09LVY9DL6&pf_rd_r=CD3HGCQPWZHNYD0H2Y5N&pf_rd_p=53d84f87-8073-4df1-9740-1bf3fa798149&th=1&psc=1&linkCode=ll1&tag=rpt96-20&linkId=5e8a0588f1074c93a5c22382703325ad&language=en_US&ref_=as_li_ss_tl" },
+
             { name: "Dr. Barbara Sturm Face Mask", 
               img: "https://m.media-amazon.com/images/I/618mjEEKd9L._AC_SX679_.jpg", 
               description: "This deeply hydrating face mask is perfect when travelling, after exposure to sun or the elements, or whenever your skin needs an instant moisture boost. Purslane, an anti-aging powerhouse, helps calm the skin and reduces visible signs of irritation. Soothing Aloe Vera and Chamomile infuse your skin with moisture while Kaolin, also known as ‘China Clay,’ leaves your complexion feeling silky soft and supple.", 
@@ -384,6 +384,7 @@ document.addEventListener('DOMContentLoaded', () => {
               description: "CALMING SERUM soothes and rebalances irritated skin. Perfect for soothing your complexion after sun exposure, shaving, sleep loss, jet lag, air conditioning or environmental pollution.", 
               amazonLink: "https://www.amazon.com/Dr-Barbara-Sturm-Calming-Unisex/dp/B09H3L9WCM?th=1&psc=1&linkCode=ll1&tag=rpt96-20&linkId=5e367e189cb85f091e0a5a6b199961dd&language=en_US&ref_=as_li_ss_tl" },
 
+            
         ],
         handbags: [
             { name: "Oscar de la Renta", 
