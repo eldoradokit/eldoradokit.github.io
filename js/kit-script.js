@@ -339,7 +339,51 @@ document.addEventListener('DOMContentLoaded', () => {
               description: "The clarifying face cream is an anti-aging moisturizer specifically developed for blemished skin. A complex of Balloon Vine, Viper’s Bugloss and Sunflower Seed Oil strengthens the skin’s moisture barrier and helps to restore its natural balance. Purslane provides a soothing and calming effect. Zinc removes excess sebum, a key factor in the formation of blemishes, while Bistorta Root Extract provides a radiant glow. When used as part of your daily skincare routine, it will result in a more even and more clarified complexion. Your skin will feel hydrated and the appearance of fine lines and wrinkles will be visibly reduced.", 
               amazonLink: "https://www.amazon.com/Dr-Barbara-Sturm-Clarifying-Cream/dp/B09VB5XMRS?th=1&psc=1&linkCode=ll1&tag=rpt96-20&linkId=65c54625ddf86454654d000d6c1917d6&language=en_US&ref_=as_li_ss_tl" },
 
-            
+            { name: "Dr. Barbara Sturm Hyaluronic Serum", 
+              img: "https://m.media-amazon.com/images/I/412to1xfIFL._AC_SX569_.jpg", 
+              description: "The Hyaluronic Serum is the most fundamental creation in Dr. Barbara Sturm’s skincare line. Packed with an optimal concentration of low and high weighted Hyaluronic Molecules, it provides instant hydration at the surface and deeper skin layers. The low molecular weight Hyaluronic Acid penetrates deeper skin layers, leaving skin feeling firmer, refreshed and visibly more radiant for the long term. High weight Hyaluronic Molecules provide immediate intensive hydration to the surface layers of the skin. When used as part of your daily skincare routine, the Hyluronic Serum improves the skin matrix and acts as a super-hydrator, improving skin health and reducing the formation of wrinkles caused by dehydration. It’s also the perfect travel companion after exposure to the sun and the elements, as Purslane, an anti-aging powerhouse, reduces the appearance of the visible signs of irritation.", 
+              amazonLink: "https://www.amazon.com/Dr-Barbara-Sturm-Hyaluronic-Serum/dp/B09V9ZHKR7?th=1&psc=1&linkCode=ll1&tag=rpt96-20&linkId=2d7dff9731a0dba81985b9db57b9c14c&language=en_US&ref_=as_li_ss_tl" },
+
+            { name: "Dr. Barbara Sturm  Microbiotic Kit", 
+              img: "https://m.media-amazon.com/images/I/51lMDSPoFGL._AC_SX679_.jpg", 
+              description: "Dr. Sturm’s MICROBIOTIC KIT includes full-size products in a sustainable craft paper bag. Use the Gentle Cleansing Balm to cleanse dry skin, turning it into a milky emulsion with lukewarm water. Apply the Hydrating Blemish Control Serum by patting one pipette length onto your face, then follow with the Balancing Face Cream morning and evening. For blemishes, use the Ultimate Stinky Pimple Treatment directly on spots or as a mask. For large inflamed areas, apply thickly and leave overnight; for a thin layer under makeup, apply sparingly.", 
+              amazonLink: "https://www.amazon.com/Dr-Barbara-Sturm-Microbiotic-Kit/dp/B0BZWVT7Z3?&linkCode=ll1&tag=rpt96-20&linkId=e46e46235fd19249cf7ea1781f457071&language=en_US&ref_=as_li_ss_tl" },
+
+            { name: "Dr. Barbara Sturm Dr Barbara Sturm, Darker Skin Tones Discovery Kit", 
+              img: "https://m.media-amazon.com/images/I/61pNajSd-8L._AC_SX679_.jpg", 
+              description: "Dr. Barbara Sturm developed the DARKER SKIN TONES COLLECTION after identifying both the specific dermatological needs of melanin-rich skin and the absence of a skincare regimen to address those needs. Additional melanin protects against photoaging damage and makes the skin more elastic – however, darker skin tones also have a heightened sensitivity to inflammation which can result in hyperpigmentation and breakouts. Dr. Sturm’s DARKER SKIN TONES COLLECTION contains additional ingredient science shown to have potent skin evening and anti-irritation effects and is infused with ingredients that help balance out the sebum production of the skin as well as Lumicol, a micro algae extract that helps even skin tone for a natural, healthy glow. Includes DARKER SKIN TONES FOAM CLEANSER, DARKER SKIN TONES ENZYME CLEANSER, DARKER SKIN TONES HYALURONIC SERUM and the DARKER SKIN TONES FACE CREAM or DARKER SKIN TONES FACE CREAM RICH.", 
+              amazonLink: "https://www.amazon.com/Barbara-Sturm-Darker-Tones-Discovery/dp/B0BKZS4Z5X?&linkCode=ll1&tag=rpt96-20&linkId=abacbce7ef29e06265a98a90fdf6f9f4&language=en_US&ref_=as_li_ss_tl" },
+
+            { name: "Dr. Barbara Sturm Sun Skin", 
+              img: "https://m.media-amazon.com/images/I/511t2i1z4aL.__AC_SY445_SX342_QL70_FMwebp_.jpg", 
+              description: "Dr. Barbara Sturm introduces **Sun Skin**, a new addition to the Sturm Inside Collection designed to protect your skin from sun exposure and skin reactions like sun allergies and heat rashes. This supplement gives a natural, sun-kissed glow without sun exposure, even in winter. It includes vitamins, polyphenols, and trace elements like Golden Fern, Raw Cacao, and Green Tea Extract to support UV protection and collagen formation. Beta-Carotene and Calcium help guard against sun allergies, while Purslane and Glutathione offer anti-aging benefits. Packaged sustainably in biodegradable materials, Sun Skin can be taken alone or with other supplements. Consult your doctor if pregnant, breastfeeding, or on medication.", 
+              amazonLink: "https://www.amazon.com/Dr-Barbara-Sturm-Skin-Count/dp/B0BX4C674W?ie=UTF8&keywords=DR%2BSTURM%2BSUN%2BSKIN&ASIN=B0BX4C674W&sprefix=dr%2Bsturm%2Bsun%2Bski%2Cluxury%2C406&sr=1-1&crid=36URCEPP272IC&qid=1722314460&dib=eyJ2IjoiMSJ9.hq4_j-ZMoSI2du4m8S6nQUmJcbEAjHjp3mRLd7KJHdELpJm_qwb1Q7yUFs3hqO1-Hu-vSLI_Zc4_7s6z3BhTzM17HzW5QAnBwt9AwJteVBY_fiAf8SoB-QuLpujIZimnwHCwM2gjAQ884H4R6k6V_tsmu3hS42Bq2Shzk-QX42k.MxUyrlVgR68TkEOmvQC_zAi199jGO7rk4Y7xHO4JFRQ&dib_tag=se&th=1&psc=1&linkCode=ll1&tag=rpt96-20&linkId=824df63881f65a207893437bef1ba8dd&language=en_US&ref_=as_li_ss_tl" },
+
+            { name: "Dr. Barbara Sturm Cleanser", 
+              img: "https://m.media-amazon.com/images/I/51yHPCnJXJL._AC_SY741_.jpg", 
+              description: "Thorough cleansing is an essential step of an effective skincare routine. Without it, impurities lodge on and in the skin, and active skincare ingredients cannot be optimally absorbed or used by the skin. This gentle foaming Cleanser removes complexion makeup and other impurities and prepares your skin for moisturizer or serum, without disturbing the delicate pH-balance or skin barrier function. Containing natural functional ingredients, Purslane calms, soothes and moisturizes, while Aloe Vera helps to repair and rejuvenate the skin.", 
+              amazonLink: "https://www.amazon.com/Dr-Barbara-Sturm-Cleanser-150ml/dp/B09VHZ9GJ8?th=1&psc=1&linkCode=ll1&tag=rpt96-20&linkId=65de567a615470b4c5cb558245a65b03&language=en_US&ref_=as_li_ss_tl" },
+
+            { name: "Dr. Barbara Sturm Sun Drops SPF 50", 
+              img: "https://m.media-amazon.com/images/I/61nbgk7Q+9L._AC_SY741_.jpg", 
+              description: "This innovative, light-textured SPF 50 sun serum that doubles as skincare provides truly broad-spectrum protection against both UVA and UVB rays. An active complex of Cassia Extract, Vitamin E and Beta-Glucan protects the skin from oxidative damage, while Purslane, an anti-aging powerhouse, helps calm the skin and reduces visible signs of irritation.", 
+              amazonLink: "https://www.amazon.com/Dr-Barbara-Sturm-Drops-30ml/dp/B09V6PSJMS?th=1&psc=1&linkCode=ll1&tag=rpt96-20&linkId=ceb6cebaacec924392497dd413e9c7e4&language=en_US&ref_=as_li_ss_tl" },
+
+            { name: "Dr. Barbara Sturm Face Mask", 
+              img: "https://m.media-amazon.com/images/I/618mjEEKd9L._AC_SX679_.jpg", 
+              description: "This deeply hydrating face mask is perfect when travelling, after exposure to sun or the elements, or whenever your skin needs an instant moisture boost. Purslane, an anti-aging powerhouse, helps calm the skin and reduces visible signs of irritation. Soothing Aloe Vera and Chamomile infuse your skin with moisture while Kaolin, also known as ‘China Clay,’ leaves your complexion feeling silky soft and supple.", 
+              amazonLink: "https://www.amazon.com/Dr-Barbara-Sturm-Face-Mask/dp/B09V9VZ1BH?th=1&psc=1&linkCode=ll1&tag=rpt96-20&linkId=71ca259ddbf4d87963ff6191c1e76933&language=en_US&ref_=as_li_ss_tl" },
+
+            { name: "Dr. Barbara Sturm Eye Cream, 15ML", 
+              img: "https://m.media-amazon.com/images/I/31BH646SBqL._AC_.jpg", 
+              description: "Dr. Barbara Sturm's hydrating Eye Cream has been specially developed to target the dark shadows, bags, and puffiness around the delicate eye area. Purslane with the special complex of Golden Root, Sugar Beet and Yeast provide a soothing 'de-puffing' effect. While active Omega lipids help the skin to retain moisture for a more youthful appearance.", 
+              amazonLink: "https://www.amazon.com/Dr-Barbara-Sturm-Cream-15ML/dp/B09XJ8S4Q4?&linkCode=ll1&tag=rpt96-20&linkId=513e41409ae4f067f427f405ddc738ad&language=en_US&ref_=as_li_ss_tl" },
+
+            { name: "Dr. Barbara Sturm Calming Serum", 
+              img: "https://m.media-amazon.com/images/I/61ZFGvIMWkL._AC_SY741_.jpg", 
+              description: "CALMING SERUM soothes and rebalances irritated skin. Perfect for soothing your complexion after sun exposure, shaving, sleep loss, jet lag, air conditioning or environmental pollution.", 
+              amazonLink: "https://www.amazon.com/Dr-Barbara-Sturm-Calming-Unisex/dp/B09H3L9WCM?th=1&psc=1&linkCode=ll1&tag=rpt96-20&linkId=5e367e189cb85f091e0a5a6b199961dd&language=en_US&ref_=as_li_ss_tl" },
+
         ],
         handbags: [
             { name: "Oscar de la Renta", 
