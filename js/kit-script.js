@@ -174,6 +174,11 @@ document.addEventListener('DOMContentLoaded', () => {
               description: "The EF ECOFLOW DELTA Pro 3 Portable Power Station is a high-capacity 4000Wh LFP battery generator, designed for versatile use in home settings, camping, emergencies, and RV trips. With a robust 120/240V 4000W AC output and the ability to expand up to 48kWh, it delivers reliable power for a wide range of needs. Whether for home backup during power outages or off-grid adventures, the DELTA Pro 3 offers a powerful and flexible solution to keep your devices and appliances running smoothly.", 
               amazonLink: "https://www.amazon.com/EF-ECOFLOW-Expandable-Accessories-Emergencies/dp/B0D14FMFZD?th=1&linkCode=ll1&tag=rpt96-20&linkId=2d8e0c9a413a7e992541085d4b7efd03&language=en_US&ref_=as_li_ss_tl" },
 
+            { name: "EF ECOFLOW DELTA PRO ULTRA", 
+              img: "https://m.media-amazon.com/images/I/71CY5wdQ2aL._AC_SX679_.jpg", 
+              description: "**DELTA Pro Ultra:** This all-in-one whole house generator combines a powerful 7200W inverter with a scalable battery system. It supports both 120V and 240V, handling heavy appliances like a 3-ton central air conditioner, and can be expanded to 21.6kW with additional inverters. With a base 6kWh battery providing up to 2 days of power and expandable to 90kWh for over 30 days of essential power, it offers versatile charging options including electric vehicle chargers, solar panels, and wall outlets. The EcoFlow app allows you to prioritize home circuits and optimize energy use, while its online UPS ensures 24/7 protection with silent operation for the first 30 minutes of 2000W output. Note that the product ships in separate packages.", 
+              amazonLink: "https://www.amazon.com/EF-ECOFLOW-Expandable-Generator-Emergency/dp/B0CQXMZ5BK?pd_rd_w=MIHOc&content-id=amzn1.sym.9c71db11-3b2f-49a1-9fef-afd524b20130&pf_rd_p=9c71db11-3b2f-49a1-9fef-afd524b20130&pf_rd_r=ZWRPH96VEFRCJCN5ZMHM&pd_rd_wg=QVQzg&pd_rd_r=16f21477-ea16-4b8d-ad51-53020e2825d7&pd_rd_i=B0CQXMZ5BK&th=1&linkCode=ll1&tag=rpt96-20&linkId=2d5534a644becb93de4645485e0c6684&language=en_US&ref_=as_li_ss_tl" },
+
             // Add more products for EcoFlow kit
         ],
         evolve: [
