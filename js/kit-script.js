@@ -55,6 +55,16 @@ document.addEventListener('DOMContentLoaded', () => {
               description: "DJI RS 4 Pro Combo, 3-Axis Gimbal Stabilizer for DSLR & Cinema Cameras Canon/Sony/Panasonic/Nikon/Fujifilm, Native Vertical Shooting, 4.5kg/10lbs Payload, with Image Transmitter & Focus Pro Motor", 
               amazonLink: "https://www.amazon.com/DJI-Stabilizer-Panasonic-Fujifilm-Transmitter/dp/B0CS6LY1V7?th=1&linkCode=ll1&tag=rpt96-20&linkId=81c79e6ed7c710ca14e1d0940d346bab&language=en_US&ref_=as_li_ss_tl" },
 
+            { name: "DJI Ronin-SC", 
+              img: "https://m.media-amazon.com/images/I/51BTZF3RRgL._AC_SY450_.jpg", 
+              description: "The Ronin-SC is a lightweight, compact gimbal designed for filmmakers and content creators on the go. It ensures smooth, stable footage with dynamic stabilization and precise movement, even during action-packed scenes. The Ronin app and automated features enhance your creative possibilities, while easy-to-reach controls and a flared battery grip provide comfortable, extended use.", 
+              amazonLink: "https://www.amazon.com/DJI-Stabilizer-Mirrorless-Stabiliser-Compatible/dp/B07R48NZVD?th=1&linkCode=ll1&tag=rpt96-20&linkId=fc113b69a25240657c3265bb08615f41&language=en_US&ref_=as_li_ss_tl" },
+
+            { name: "DJI Zenmuse X9-8K", 
+              img: "https://m.media-amazon.com/images/I/61Qzscnrw2L._AC_SY450_.jpg", 
+              description: "The Zenmuse X9-8K gimbal camera delivers pro-level imaging with up to 8K/60fps video and 14.7 stops of dynamic range. It features built-in 9-stop ND filters for easy exposure adjustments and supports a variety of lens options, including autofocus for manual lenses. Capture exquisite details with minimal noise and achieve cinematic results in any lighting condition.", 
+              amazonLink: "https://www.amazon.com/DJI-Full-Frame-Dual-Native-Interchangeable-Autofocus/dp/B0CN8RZ7GP?th=1&linkCode=ll1&tag=rpt96-20&linkId=5912fd98e623aa3f44100e8c71c245ee&language=en_US&ref_=as_li_ss_tl" },
+
             {name: "DJI Action 2", 
               img: "https://m.media-amazon.com/images/I/61ynVFrjIJL._AC_SY450_.jpg", 
               description: "The DJI Action 2 offers a magnetic design for easy accessory swaps and versatile filming. Its ultra-compact size makes it ideal for travel, and with the Magnetic Lanyard and Headband, you can capture hands-free footage. Record stunning 4K/120fps video with a wide field of view, and effortlessly create share-worthy content using the DJI Mimo app's AI Editor. Note that only the camera unit is waterproof; use the Waterproof Case for underwater filming. The package includes the Camera Unit with 128GB storage, Power Module, Magnetic Protective Case, and more, with a recommended recording time of up to 5 minutes at 4K/120fps.", 
