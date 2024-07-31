@@ -37,8 +37,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
             { name: "Blink Video Doorbell", 
               img: "https://m.media-amazon.com/images/I/41te-uzWxDL._AC_SY450_.jpg", 
-              description: "Monitor your door from anywhere with the Video Doorbell, featuring 1080p HD video, infrared night vision, and two-way audio. Enjoy long battery life, customizable alerts, and privacy settings. Receive notifications for motion or doorbell presses and connect to existing wiring or use with a Sync Module (sold separately) for live view and audio. Save clips with a free 30-day Blink Subscription Plan trial or locally with a Sync Module 2 and USB drive (sold separately). Easily set up with the included AA batteries and connect via the app. Works with Alexa for hands-free access and two-way communication. Includes doorbell, batteries, screws, and a case opening tool; Sync Module 2 sold separately.https://www.amazon.com/Blink-Video-Doorbell/dp/B08SG2MS3V?psc=1&linkCode=ll1&tag=rpt96-20&linkId=3a39705521ad98bd4d8d371b5dc16407&language=en_US&ref_=as_li_ss_tl ", 
-              amazonLink: "" },
+              description: "Monitor your door from anywhere with the Video Doorbell, featuring 1080p HD video, infrared night vision, and two-way audio. Enjoy long battery life, customizable alerts, and privacy settings. Receive notifications for motion or doorbell presses and connect to existing wiring or use with a Sync Module (sold separately) for live view and audio. Save clips with a free 30-day Blink Subscription Plan trial or locally with a Sync Module 2 and USB drive (sold separately). Easily set up with the included AA batteries and connect via the app. Works with Alexa for hands-free access and two-way communication. Includes doorbell, batteries, screws, and a case opening tool; Sync Module 2 sold separately.", 
+              amazonLink: "https://www.amazon.com/Blink-Video-Doorbell/dp/B08SG2MS3V?psc=1&linkCode=ll1&tag=rpt96-20&linkId=3a39705521ad98bd4d8d371b5dc16407&language=en_US&ref_=as_li_ss_tl" },
 
             { name: "Amazon Echo Dot", 
               img: "https://m.media-amazon.com/images/I/518cRYanpbL._AC_SY450_.jpg", 
