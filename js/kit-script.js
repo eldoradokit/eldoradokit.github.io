@@ -476,7 +476,12 @@ document.addEventListener('DOMContentLoaded', () => {
               img: "https://m.media-amazon.com/images/I/71niTItVY6L._AC_SY741_.jpg", 
               description: "Structured Prada crossbody bag in red Nappa Gaufre leather, featuring gathered details and finished with silver-tone hardware.", 
               amazonLink: "https://www.amazon.com/Prada-Pre-Loved-Nappa-Gaufre-Crossbody/dp/B0D38CZN69?ie=UTF8&ASIN=B0D38CZN69&sr=1-22&qid=1722241423&_encoding=UTF8&dib=eyJ2IjoiMSJ9.KAeSaZwaqIGmLkpF3M92Ezhj5Ln3udwSc7AQnW0TxeSUTZnliJhXLDGbPcWL_xHtP9qUbsWEf7m2K9EbCCM078WMynZMHycsd0-Y9ZDMdakrq9-K1vqYpJDzQofYtlpewajF9yYonOVzjOoa5j8I647o20l4t8a1nNcQQwO4XkW2GokhR6lCDiKe29dW1NhMBgeC2LvAzVBjiFLRSo9S0h_P73Wk5ktlMDqoY6BOt0kUKUfkc4sJsXn75Betg6dAZi4NYIp-A3HuXgPoHes82ri36gA9N7wZN5_S5zCPt5s.4UBoJj9XoH31TQ-u_AaBUZPDOr9sfyomoJBniR6ZuoA&rnid=20722800011&dib_tag=se&linkCode=ll1&tag=rpt96-20&linkId=02aac33efb552788a06947ffeef39ffb&language=en_US&ref_=as_li_ss_tl" },
-            
+
+             { name: "YVES SAINT LAURENT", 
+              img: "https://m.media-amazon.com/images/I/71hL-8YMIML._AC_SY741_.jpg", 
+              description: " The Yves Saint Laurent Jamie shoulder bag is an adorable accessory made of tweed with a leather interior and gold-tone logo hardware. It's a perfect choice for any occasion, adding elegance and sophistication to your style. ", 
+              amazonLink: "https://www.amazon.com/Saint-Laurent-Pre-Loved-Shoulder-Medium/dp/B0D1XQ8V9P?&linkCode=ll1&tag=rpt96-20&linkId=27aaa464831313bc584d3fb10e87ee0a&language=en_US&ref_=as_li_ss_tl" },
+
         ],
         clothing: [
              { name: "Rodarte", 
