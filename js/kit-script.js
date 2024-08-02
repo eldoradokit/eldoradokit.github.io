@@ -559,6 +559,26 @@ document.addEventListener('DOMContentLoaded', () => {
                description: "From the Rodarte Spring 24 Collection, this exquisite gown is crafted from 100% silk charmeuse with a lustrous blue and white floral print. Made in the USA, the gown features a bias cut that enhances its elegant flow. It is adorned with intricate gossamer lace inlays and ruffles of white lace trim along the halter neckline. The empire waistline is cinched with thin silk ribbons that tie at the back, creating a slim fit that gently flares into a maxi length. Specialized dry cleaning is recommended to preserve its delicate beauty.", 
                amazonLink: "https://www.amazon.com/Rodarte-White-Floral-Printed-Details/dp/B0CWSGBXHJ?th=1&linkCode=ll1&tag=rpt96-20&linkId=862ffe36d3773b9f19cb66e7604fd01a&language=en_US&ref_=as_li_ss_tl" },
 
+              { name: "ADRIANA DEGREAS", 
+              img: "https://m.media-amazon.com/images/I/41frqLdwpiL._AC_SY741_.jpg", 
+              description: "ADRIANA DEGREAS COTTON SOLID TOP & SKIRT SET. Sets are increasingly present in AD collections. versatile piece that can be worn in coordination with each other or even with other options for a mix and match proposal. Combine the iconic shell top with shorts in vibrant colors for a fresh summer look. We love the skirt with swimsuits and low-heeled sandals for lunch by the pool.", 
+              amazonLink: "https://www.amazon.com/COTTON-SOLID-TOP-SKIRT-WHITE/dp/B0CVR2FV99?ie=UTF8&ASIN=B0CVR2FV99&sr=1-55&qid=1722582479&_encoding=UTF8&dib=eyJ2IjoiMSJ9.YF-8eCmpM3p4tZLosupnqjCssbmInJ7fFHuGCJbfKwgommH0ac8jX1nSRQ716puBi7wv0XHDVJWJsvR4cOgJ6TEKhUxTYC0BWNRJk4qs2jyS3uHxvIwN331amhLWoKfyhT_53pMUboBm99nhKyQcIw.viiWgMloCt4Vg4pdPswLVp0ZxB9alCCLlZe7QJcJ054&rnid=20722800011&dib_tag=se&th=1&linkCode=ll1&tag=rpt96-20&linkId=e3390c6bba7385a28afd16c4eeb55788&language=en_US&ref_=as_li_ss_tl" },
+
+             { name: "Perfect Moment", 
+              img: "https://m.media-amazon.com/images/I/51fScY55k3L._AC_SY741_.jpg", 
+              description: "Perfect Moment Women’s Aurora High Waist Flare Pant  ", 
+              amazonLink: "We’ve put a retro spin on our favourite ski pants, taking design cues from the glory days of skiing in the 1960s. The Aurora High Waist Flare Pant is cut from waterproof, breathable fabric, with a high waist for a more secure fit. Slip them on like your favourite pair of jeans – the kick-flared design makes them perfect for fitting over ski and snow boots." },
+
+            { name: "Rodarte", 
+              img: "https://m.media-amazon.com/images/I/71iB+CDBzRL._AC_SY741_.jpg", 
+              description: "Rodarte White Floral Tulle Tiered Ruffle Dress with Bow Belt. This lace tulle tiered dress features a fitted bodice, delicate straps, layers of white tulle ruffles at its straight neckline. Its waistline is defined by a self-belt with a bow atop a slightly flared skirt adorned with tiers of frothy tulle ruffles. Lined in off white silk crepe de chine. ", 
+              amazonLink: "https://www.amazon.com/Rodarte-White-Floral-Tiered-Ruffle/dp/B0C42NZB14?th=1&linkCode=ll1&tag=rpt96-20&linkId=8ff6aab7464d14f9cd39c9f289ed6a71&language=en_US&ref_=as_li_ss_tl" },
+
+            { name: "Lela Rose", 
+              img: "https://m.media-amazon.com/images/I/61879ldcraL._AC_SY741_.jpg", 
+              description: "Lela Rose Off The Shoulder Button Detail Midi Dress. Romance incarnate gets a slinky, effortlessly wearable moment. Iconic off-the-shoulder vintage-inspired silhouette, full-length functional button placket, Murano-inspired graphic button detailing, and gorgeous gesture-worthy sleeves are rendered in a luscious and tactile seamless knit. Designed to be fitted through the waist.  ", 
+              amazonLink: "https://www.amazon.com/Shoulder-Button-Detail-Dress-Medium/dp/B0D35ZB2MP?ie=UTF8&ASIN=B0D35ZB2MP&sr=1-38&qid=1722582449&_encoding=UTF8&dib=eyJ2IjoiMSJ9.09RpxkCHeHtbMJqKoFXWvljbb_rLWvJaoLSl376MagBFguwRzgBj3Zh1fE4lbTXC-h6i0EDUv1oEEpOAB8EwKLs5KPdLVOTtadtUUzlACPpVvouwg6326CnhyUqRidRevuexgbpSmZxjmuHn11i4GIHUCtsoVVeQx4eeQPIgrsyLVrYJJmPPbGWMPHSAldOWt9eZ-L8mQOOZuSaECDDpYR8MkCchqagLPMlELpTFzYKrvWK6F2dhJznkyqlSYjO9zkiX63zzC5jyBkev5ztINjSs1J33cgSill_omgXZ7ok.Ordb9Rz-M8jVzetLTKvpl_8yIKxXqYDKcUZoILhRzck&rnid=20722800011&dib_tag=se&th=1&linkCode=ll1&tag=rpt96-20&linkId=db5583f1cebc18c3c8302ea0e91dbd2c&language=en_US&ref_=as_li_ss_tl" },
+
         
         ]
         // Add more kits similarly
