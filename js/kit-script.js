@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const kitsContent = {
         dji: [
             { name: "DJI Neo", 
-              img: "https://m.media-amazon.com/images/I/61lOWnBbCRL._AC_SY450_.jpg", 
+              img: "https://m.media-amazon.com/images/I/918XEwF23RL._AC_UL480_FMwebp_QL65_.jpg", 
               description: "Lightweight at just 135g, the DJI Neo is so compact it doesn't require FAA registration or Remote ID. Effortlessly take off from your hand and capture stunning 4K video with AI Subject Tracking and QuickShots. With multiple control options—controller-free, voice, app, or RC its perfect for family BBQs, hiking, or vlogging. The Neo’s propeller guards and level-4 wind resistance ensure safe, smooth flights, making it a fun, flexible, and worry-free drone for everyone. Includes battery, propeller guards, and more for easy, ready-to-go adventures.", 
               amazonLink: "https://amzn.to/4ebcM8V" },
             
