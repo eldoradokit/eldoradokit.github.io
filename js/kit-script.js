@@ -5,6 +5,11 @@ document.addEventListener('DOMContentLoaded', () => {
     // Sample data for kitsContent
     const kitsContent = {
         dji: [
+            { name: "DJI Neo", 
+              img: "https://m.media-amazon.com/images/I/61lOWnBbCRL._AC_SY450_.jpg", 
+              description: "Lightweight at just 135g, the DJI Neo is so compact it doesn't require FAA registration or Remote ID. Effortlessly take off from your hand and capture stunning 4K video with AI Subject Tracking and QuickShots. With multiple control options—controller-free, voice, app, or RC its perfect for family BBQs, hiking, or vlogging. The Neo’s propeller guards and level-4 wind resistance ensure safe, smooth flights, making it a fun, flexible, and worry-free drone for everyone. Includes battery, propeller guards, and more for easy, ready-to-go adventures.", 
+              amazonLink: "https://amzn.to/4ebcM8V" },
+            
             { name: "DJI Mini 4K", 
               img: "https://m.media-amazon.com/images/I/61bi6w6ye4L._AC_SY450_.jpg", 
               description: "The DJI Mini 4K Fly More Combo is a compact and powerful drone designed for enthusiasts and professionals alike. Weighing under 249 grams, it boasts a 4K UHD camera supported by a 3-axis gimbal for stable and smooth footage.With advanced features like 10km video transmission range, automatic return to home capability, and multiple QuickShots modes for creative aerial photography, it offers up to 93 minutes of flight time with its three included batteries. This drone is perfect for capturing stunning aerial views with ease and precision.", 
