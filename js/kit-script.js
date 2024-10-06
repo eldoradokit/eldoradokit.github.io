@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             { name: "DJI Mini 2 SE", 
               img: "https://m.media-amazon.com/images/I/61R0jBIH47L._AC_SX466_.jpg", 
-              description: "  ", 
+              description: "Mini Drone with 10km Video Transmission, 3 Batteries for 93 Mins Max Flight Time, Under 249 g, QHD Video, Auto Return, QuickShots, Drone with Camera for Beginners  ", 
               amazonLink: "https://amzn.to/3NcEs10DJI Mini 2 SE Fly More Combo, Mini Drone with 10km Video Transmission, 3 Batteries for 93 Mins Max Flight Time, Under 249 g, QHD Video, Auto Return, QuickShots, Drone with Camera for Beginners" },
 
             { name: "DJI Avata Pro-View Combo ", 
