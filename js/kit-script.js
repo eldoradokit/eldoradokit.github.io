@@ -35,6 +35,11 @@ document.addEventListener('DOMContentLoaded', () => {
               description: "The DJI Avata 2 Fly More Combo offers an immersive FPV experience with its 4K camera and three batteries for extended flight time. Featuring one-push acrobatics and a built-in propeller guard, it ensures safe and dynamic flying. With a 155° field of view, it captures expansive footage and complies with FAA Remote ID regulations. Perfect for thrill-seekers and content creators, this drone delivers exceptional performance and convenience.", 
               amazonLink: "https://www.amazon.com/DJI-Batteries-Immersive-Experience-Acrobatics/dp/B0CS6HVW6P?th=1&linkCode=ll1&tag=rpt96-20&linkId=0653bd0532078f3cb4cdca4159d96c8e&language=en_US&ref_=as_li_ss_tl" },
 
+            { name: "DJI Mini 2 SE", 
+              img: "https://m.media-amazon.com/images/I/61R0jBIH47L._AC_SX466_.jpg", 
+              description: "  ", 
+              amazonLink: "https://amzn.to/3NcEs10DJI Mini 2 SE Fly More Combo, Mini Drone with 10km Video Transmission, 3 Batteries for 93 Mins Max Flight Time, Under 249 g, QHD Video, Auto Return, QuickShots, Drone with Camera for Beginners" },
+
             { name: "DJI Avata Pro-View Combo ", 
               img: "https://m.media-amazon.com/images/I/61yw4lNwkCL._AC_SY450_.jpg", 
               description: "The First-Person View (FPV) Drone UAV Quadcopter offers an immersive flight experience with its 4K stabilized video and super-wide 155° field of view. This advanced quadcopter includes the new RC Motion 2 and Goggles 2, enhancing control and visual immersion. Equipped with features like Emergency Brake and Hover, it ensures safety and precision during flights, making it a top choice for aerial enthusiasts and professionals looking to capture stunning, stabilized footage.", 
@@ -74,6 +79,11 @@ document.addEventListener('DOMContentLoaded', () => {
               img: "https://m.media-amazon.com/images/I/61ynVFrjIJL._AC_SY450_.jpg", 
               description: "The DJI Action 2 offers a magnetic design for easy accessory swaps and versatile filming. Its ultra-compact size makes it ideal for travel, and with the Magnetic Lanyard and Headband, you can capture hands-free footage. Record stunning 4K/120fps video with a wide field of view, and effortlessly create share-worthy content using the DJI Mimo app's AI Editor. Note that only the camera unit is waterproof; use the Waterproof Case for underwater filming. The package includes the Camera Unit with 128GB storage, Power Module, Magnetic Protective Case, and more, with a recommended recording time of up to 5 minutes at 4K/120fps.", 
               amazonLink: "https://www.amazon.com/DJI-Super-Wide-Attachments-Stabilization-Technology/dp/B0CS6JDM78?th=1&psc=1&linkCode=ll1&tag=rpt96-20&linkId=c072c17f8367d788825d5fc6ff3557c6&language=en_US&ref_=as_li_ss_tl" },
+
+            { name: "DJI Dock 2", 
+              img: "https://m.media-amazon.com/images/I/51RO0WqCznL._AC_SX679_.jpg", 
+              description: "The DJI Dock 2 is an advanced autonomous drone docking station designed for seamless operations. It enables remote drone deployment, charging, and data transfer, making it ideal for automated aerial missions in various industries.", 
+              amazonLink: "https://amzn.to/3zVpF7V" },
 
             { name: "DJI Osmo Action 3 ", 
               img: "https://m.media-amazon.com/images/I/71BQ8Kjt29L._AC_SY450_.jpg", 
