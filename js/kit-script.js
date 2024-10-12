@@ -15,7 +15,12 @@ document.addEventListener('DOMContentLoaded', () => {
               description: "The DJI Mini 4K Fly More Combo is a compact and powerful drone designed for enthusiasts and professionals alike. Weighing under 249 grams, it boasts a 4K UHD camera supported by a 3-axis gimbal for stable and smooth footage.With advanced features like 10km video transmission range, automatic return to home capability, and multiple QuickShots modes for creative aerial photography, it offers up to 93 minutes of flight time with its three included batteries. This drone is perfect for capturing stunning aerial views with ease and precision.", 
               amazonLink: "https://www.amazon.com/DJI-Stabilization-Transmission-Resistance-Battery/dp/B0CXJDDJ9X?th=1&linkCode=ll1&tag=rpt96-20&linkId=c20869f001c833d1f5b703d8dfc285ce&language=en_US&ref_=as_li_ss_tl" },
 
-            { name: "DJI Mini 3 Fly More Combo", 
+            { name: "DJI Mini 4 Pro", 
+              img: "https://m.media-amazon.com/images/I/61dKEc095AL._AC_SX679_.jpg", 
+              description: "DJI Mini 4 Pro (DJI RC 2), Drones with Camera for Adults 4K, Under 0.549 lbs/249 g, 34 Mins Flight Time, 20 km Max Video Transmission Distance, Omnidirectional Vision Sensing", 
+              amazonLink: "https://amzn.to/3Y2jBCD" },
+
+            { name: "DJI Mini 3", 
               img: "https://m.media-amazon.com/images/I/71wfT6VKV8L._AC_SY450_.jpg", 
               description: "Entry-Level DJI Mini 3 Fly More Combo (DJI RC): Lightweight 3-Axis Mechanical Gimbal Mini Camera Drone with 4K HDR Video, 3 Batteries for 114-Minute Flight Time, Vertical Shooting, 32,800ft (10km) Video Transmission. Good Luck!", 
               amazonLink: "https://www.amazon.com/DJI-Mini-Fly-More-Combo/dp/B0BL3R3L45?th=1&linkCode=ll1&tag=rpt96-20&linkId=645f83b958a63754bf48e17434c24108&language=en_US&ref_=as_li_ss_tl" },
@@ -25,12 +30,12 @@ document.addEventListener('DOMContentLoaded', () => {
               description: "The DJI Mavic 3 Classic (DJI RC) is a high-performance drone equipped with a 4/3 CMOS Hasselblad camera capable of capturing 5.1K HD video. It offers an impressive 46 minutes of flight time and features omnidirectional obstacle sensing for enhanced safety. With Smart Return to Home and FAA Remote ID compliance, this drone is ideal for capturing breathtaking aerial footage with ease and precision.", 
               amazonLink: "https://www.amazon.com/DJI-Hasselblad-Professionals-Omnidirectional-Transmission/dp/B0BGMJN6MD?th=1&linkCode=ll1&tag=rpt96-20&linkId=b5e5b3a33382afe0a318c9ba7821a369&language=en_US&ref_=as_li_ss_tl" },
 
-            { name: "DJI Air 3 Fly More Combo ", 
+            { name: "DJI Air 3 ", 
               img: "https://m.media-amazon.com/images/I/6101E4GUMAL._AC_SY450_.jpg", 
               description: "The DJI Air 3 Fly More Combo, paired with the DJI RC 2, offers a versatile aerial photography experience with its dual primary cameras capable of capturing stunning 4K video and 48MP photos. This drone ensures extended flight time with three batteries and boasts a remarkable 20 km maximum video transmission range. Designed to be FAA Remote ID compliant, the DJI Air 3 is ideal for enthusiasts and professionals seeking superior performance and compliance with the latest regulations.", 
               amazonLink: "https://www.amazon.com/DJI-Controller-Wide-Angle-Primary-Batteries/dp/B0C7GV6RRZ?th=1&linkCode=ll1&tag=rpt96-20&linkId=8b3d93be9bfc239c5f70da011af8d0a6&language=en_US&ref_=as_li_ss_tl" },
 
-            { name: "DJI Avata 2 Fly More Combo", 
+            { name: "DJI Avata 2 ", 
               img: "https://m.media-amazon.com/images/I/61VTNpkhkEL._AC_SY450_.jpg", 
               description: "The DJI Avata 2 Fly More Combo offers an immersive FPV experience with its 4K camera and three batteries for extended flight time. Featuring one-push acrobatics and a built-in propeller guard, it ensures safe and dynamic flying. With a 155° field of view, it captures expansive footage and complies with FAA Remote ID regulations. Perfect for thrill-seekers and content creators, this drone delivers exceptional performance and convenience.", 
               amazonLink: "https://www.amazon.com/DJI-Batteries-Immersive-Experience-Acrobatics/dp/B0CS6HVW6P?th=1&linkCode=ll1&tag=rpt96-20&linkId=0653bd0532078f3cb4cdca4159d96c8e&language=en_US&ref_=as_li_ss_tl" },
@@ -40,12 +45,12 @@ document.addEventListener('DOMContentLoaded', () => {
               description: "Mini Drone with 10km Video Transmission, 3 Batteries for 93 Mins Max Flight Time, Under 249 g, QHD Video, Auto Return, QuickShots, Drone with Camera for Beginners  ", 
               amazonLink: "https://amzn.to/3NcEs10DJI Mini 2 SE Fly More Combo, Mini Drone with 10km Video Transmission, 3 Batteries for 93 Mins Max Flight Time, Under 249 g, QHD Video, Auto Return, QuickShots, Drone with Camera for Beginners" },
 
-            { name: "DJI Avata Pro-View Combo ", 
+            { name: "DJI Avata Pro ", 
               img: "https://m.media-amazon.com/images/I/61yw4lNwkCL._AC_SY450_.jpg", 
               description: "The First-Person View (FPV) Drone UAV Quadcopter offers an immersive flight experience with its 4K stabilized video and super-wide 155° field of view. This advanced quadcopter includes the new RC Motion 2 and Goggles 2, enhancing control and visual immersion. Equipped with features like Emergency Brake and Hover, it ensures safety and precision during flights, making it a top choice for aerial enthusiasts and professionals looking to capture stunning, stabilized footage.", 
               amazonLink: "https://www.amazon.com/DJI-Avata-Pro-View-Combo-First-Person/dp/B0BVZPXR89?th=1&linkCode=ll1&tag=rpt96-20&linkId=07deef18cb1c3a4c863cc53e08216938&language=en_US&ref_=as_li_ss_tl" },
 
-            { name: "DJI FPV Explorer Combo", 
+            { name: "DJI FPV Explorer ", 
               img: "https://m.media-amazon.com/images/I/513lFIcY+jL._AC_SY450_.jpg", 
               description: "The DJI FPV Explorer Combo with Goggles Integra offers an exhilarating and immersive flight experience, featuring a 4K camera capable of 60fps for stunningly smooth footage. This FPV drone boasts 10 km HD low-latency video transmission, ensuring clear and responsive control even at a distance. Equipped with an Emergency Brake and Hover function for enhanced safety, it is also FAA Remote ID compliant, making it a top choice for both adventurous hobbyists and professional aerial videographers.", 
               amazonLink: "https://www.amazon.com/DJI-Experience-Low-Latency-Transmission-First-Person/dp/B0C997HCXQ?th=1&linkCode=ll1&tag=rpt96-20&linkId=b2280b56e837928059aae41ed4961dbd&language=en_US&ref_=as_li_ss_tl" },
@@ -55,12 +60,12 @@ document.addEventListener('DOMContentLoaded', () => {
               description: "The DJI Mavic 3 Pro with DJI RC is a flagship drone featuring a triple-camera system, including a 4/3 CMOS Hasselblad camera for stunning 4K footage. It boasts a 43-minute flight time and 15km HD video transmission, ensuring long-range and high-quality aerial shots. Compliant with FAA Remote ID regulations, this advanced drone is perfect for adult enthusiasts and professionals seeking top-tier performance and reliability.", 
               amazonLink: "https://www.amazon.com/DJI-controller-Triple-Camera-Transmission-photography/dp/B0BYHSDY4C?th=1&linkCode=ll1&tag=rpt96-20&linkId=284bdae082ec24f9167610a3f53c37d5&language=en_US&ref_=as_li_ss_tl" },
         
-            { name: "DJI RS 3 Pro Combo", 
+            { name: "DJI RS 3 ", 
               img: "https://m.media-amazon.com/images/I/51LmiCAxmrL._AC_SY450_.jpg", 
               description: "The DJI RS 3 Pro Combo is a professional 3-axis gimbal stabilizer designed for DSLR and cinema cameras, compatible with brands like Canon, Sony, Panasonic, Nikon, Fujifilm, and BMPCC. Featuring automated axis locks and durable carbon fiber arms, this gimbal ensures superior stabilization and ease of use. The combo also includes the Ronin Image Transmitter for seamless video transmission. With its sleek black design, the DJI RS 3 Pro Combo is the perfect tool for filmmakers seeking unparalleled precision and versatility.", 
               amazonLink: "https://www.amazon.com/DJI-Pro-Combo-Stabilizer-Transmission/dp/B09ZPN7G95?th=1&linkCode=ll1&tag=rpt96-20&linkId=e69c65637e46b6269e5ad7b43edec356&language=en_US&ref_=as_li_ss_tl" },
 
-            { name: "DJI RS 4 Pro Combo", 
+            { name: "DJI RS 4 ", 
               img: "https://stormsend1.djicdn.com/tpc/uploads/carousel/image/b1e526654c6107aaf38c438da8bb2cfe@origin.jpg", 
               description: "DJI RS 4 Pro Combo, 3-Axis Gimbal Stabilizer for DSLR & Cinema Cameras Canon/Sony/Panasonic/Nikon/Fujifilm, Native Vertical Shooting, 4.5kg/10lbs Payload, with Image Transmitter & Focus Pro Motor", 
               amazonLink: "https://www.amazon.com/DJI-Stabilizer-Panasonic-Fujifilm-Transmitter/dp/B0CS6LY1V7?th=1&linkCode=ll1&tag=rpt96-20&linkId=81c79e6ed7c710ca14e1d0940d346bab&language=en_US&ref_=as_li_ss_tl" },
