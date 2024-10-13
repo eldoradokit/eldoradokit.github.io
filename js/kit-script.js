@@ -59,7 +59,12 @@ document.addEventListener('DOMContentLoaded', () => {
               img: "https://m.media-amazon.com/images/I/61Dk8UJAYcL._AC_SY450_.jpg", 
               description: "The DJI Mavic 3 Pro with DJI RC is a flagship drone featuring a triple-camera system, including a 4/3 CMOS Hasselblad camera for stunning 4K footage. It boasts a 43-minute flight time and 15km HD video transmission, ensuring long-range and high-quality aerial shots. Compliant with FAA Remote ID regulations, this advanced drone is perfect for adult enthusiasts and professionals seeking top-tier performance and reliability.", 
               amazonLink: "https://www.amazon.com/DJI-controller-Triple-Camera-Transmission-photography/dp/B0BYHSDY4C?th=1&linkCode=ll1&tag=rpt96-20&linkId=284bdae082ec24f9167610a3f53c37d5&language=en_US&ref_=as_li_ss_tl" },
-        
+
+            { name: "DJI Cellular Dongle 2", 
+              img: "https://m.media-amazon.com/images/I/71rVKRQAbKL._AC_SX679_.jpg", 
+              description: "The Cellular Dongle 2 enables DJI equipment like the DJI Air 3 and DJI Mini 4 Pro to access 4G networks, providing enhanced connectivity, transmission, and additional features. DJI Mini 4 Pro users must use the mounting kit (with 4G antennas), while DJI Air 3 users can insert the dongle directly into the aircraft without needing an installation kit.  ", 
+              amazonLink: "https://amzn.to/4dKPqWk" },
+            
             { name: "DJI RS 3 ", 
               img: "https://m.media-amazon.com/images/I/51LmiCAxmrL._AC_SY450_.jpg", 
               description: "The DJI RS 3 Pro Combo is a professional 3-axis gimbal stabilizer designed for DSLR and cinema cameras, compatible with brands like Canon, Sony, Panasonic, Nikon, Fujifilm, and BMPCC. Featuring automated axis locks and durable carbon fiber arms, this gimbal ensures superior stabilization and ease of use. The combo also includes the Ronin Image Transmitter for seamless video transmission. With its sleek black design, the DJI RS 3 Pro Combo is the perfect tool for filmmakers seeking unparalleled precision and versatility.", 
